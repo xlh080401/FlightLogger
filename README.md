@@ -1,12 +1,14 @@
-# AeroLog (FLOG4) — 100% Offline Avionics Flight Logbook
+# AeroLog (FlightLogger) — 100% Offline Avionics Flight Logbook
 
+[![Release](https://img.shields.io/github/v/release/xlh080401/FlightLogger?label=Release&logo=github)](https://github.com/xlh080401/FlightLogger/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download_APK-FlightLogger--v1.0.0.apk-2ea44f?logo=android)](https://github.com/xlh080401/FlightLogger/releases/download/v1.0.0/FlightLogger-v1.0.0.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B%20(API%2026%2B)-3DDC84?logo=android)](https://developer.android.com)
 [![UI](https://img.shields.io/badge/UI-Jetpack%20Compose%20%C2%B7%20Material%20Design%203-4285F4?logo=jetpackcompose)](https://m3.material.io)
-[![Network](https://img.shields.io/badge/Network-Zero%20Permissions%20(100%25%20Offline)-success)](#privacy--zero-network-guarantee)
-[![AI](https://img.shields.io/badge/On--Device%20AI-GLES%203.1%20GPU%20Compute%20Shader-FF6F00)](#on-device-gpu-ai-inference-engine)
+[![Network](https://img.shields.io/badge/Network-Zero%20Permissions%20(100%25%20Offline)-success)](#overview)
+[![AI](https://img.shields.io/badge/On--Device%20AI-GLES%203.1%20GPU%20Compute%20Shader-FF6F00)](#overview)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**English** | [简体中文](#简体中文说明)
+**English** | [简体中文](#简体中文说明) | **[📦 Download APK (v1.0.0)](https://github.com/xlh080401/FlightLogger/releases/tag/v1.0.0)**
 
 ---
 
