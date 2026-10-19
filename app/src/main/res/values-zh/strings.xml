@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AeroLog · 离线飞行日志</string>
+    <string name="notification_channel_name">飞行传感器记录服务</string>
+    <string name="notification_channel_desc">持续采集水平仪、加速度计、气压计与GPS飞行数据</string>
+    <string name="notification_recording_started">正在离线记录飞行传感器数据…</string>
+    <string name="notification_status">%1$s · 高度 %2$s · 速度 %3$s · 俯仰 %4$s · 卫星 %5$d颗</string>
+
+    <!-- Phases -->
+    <string name="phase_ground">地面停靠 GROUND</string>
+    <string name="phase_taxi">地面滑行 TAXI</string>
+    <string name="phase_takeoff">起飞滑跑 TAKEOFF</string>
+    <string name="phase_climb">爬升阶段 CLIMB</string>
+    <string name="phase_cruise">高空巡航 CRUISE</string>
+    <string name="phase_descent">下降进近 DESCENT</string>
+    <string name="phase_landing">接地着陆 LANDING</string>
+</resources>

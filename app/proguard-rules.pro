@@ -1,0 +1,4 @@
+-keep class com.flog4.app.data.** { *; }
+-keep class com.caverock.androidsvg.** { *; }
+-dontwarn com.caverock.androidsvg.**
+-keepattributes Signature, InnerClasses, EnclosingMethod

@@ -1,0 +1,84 @@
+{
+  "model_name": "FlightNano-GPU-v1 (20.4K Params)",
+  "precision": "FP32 GLES31 Compute / SIMD",
+  "takeoff_zh": [
+    "起飞阶段推力充沛，水平仪捕捉到果断的抬轮俯仰姿态，初始爬升率表现优异。",
+    "起飞滑跑加速度均匀，V1决断与V2抬轮衔接教科书般标准，离地姿态稳健。",
+    "起飞抬轮柔和顺畅，机头俯仰角平缓建立，客舱过载感极小，爬升体感舒适。",
+    "属于典型的高载重滑跑特征，高速达到V1/V2后稳步建立爬升梯度。",
+    "短距快速增推起飞特征明显，飞机迅速脱离地面并建立稳定初始爬升。",
+    "高原/高功率起飞包线表现出色，离地后保持了良好的速度裕度与爬升推力。",
+    "起飞阶段加速迅猛，抬轮瞬间垂直G值响应积极，展现出强劲的气动爬升性能。",
+    "离地后采用柔和的小迎角加速爬升策略，兼顾了客舱安静度与巡航加速效率。"
+  ],
+  "cruise_zh": [
+    "巡航阶段处于高空平流层平稳气流区，三轴加速度计几乎未测得明显颠簸。",
+    "巡航高度与巡航地速保持高度稳定，自动驾驶航迹平直，整体飞行品质极佳。",
+    "巡航途中偶遇轻微高空切变气流，加速度计记录到细微G值波动，但整体姿态平稳。",
+    "巡航阶段穿越对流活跃区，传感器记录到一定程度的气流颠簸，飞控系统保持了良好阻尼。",
+    "中低空区域航线巡航特征明显，高度层保持精准，地速包线平稳。",
+    "得益于有利的高空顺风分量，巡航地速表现亮眼，航程推进效率极高。",
+    "中远程巡航包线十分扎实，阶梯高度层与巡航马赫数控制得当。",
+    "短途干线快线飞行节奏紧凑，爬升与下降衔接一气呵成。"
+  ],
+  "pressure_zh": [
+    "机舱增压系统表现出色，巡航期间等效客舱高度维持在极佳舒适区间，耳压感轻微。",
+    "气压计曲线完整呈现了标准民航客舱增压循环，爬升减压与下降增压斜率十分平滑。",
+    "巡航段机舱内气压保持恒定等压状态，环控增压系统控制精度极高。",
+    "下降阶段客舱气压随高度平稳回升，气压变化率控制在舒适阈值以内。",
+    "全程机舱气压过渡温和，对乘客耳膜非常友好，体现了现代客机优秀的环控品质。",
+    "客舱压差波动极小，机舱气压曲线平滑连贯。",
+    "高空巡航期间客舱增压系统稳定维持安全压差，着陆前顺利完成场压平衡。",
+    "气压传感器全程记录到清晰完整的增压包线，客舱环境舒适稳定。"
+  ],
+  "landing_zh": [
+    "进近与拉平动作细腻，接地瞬间垂直过载极低，堪称奶油落地（Butter Landing）。",
+    "五边进近轨迹稳定，以标准Vapp速度精准接地，反推与刹车减速线性柔和。",
+    "接地动作干脆扎实（Firm Touchdown），确保了机轮迅速建立地面附着力并高效减速。",
+    "着陆滑跑阶段保持了充裕的跑道减速距离，脱离跑道过程平稳顺畅。",
+    "接地后制动力度果断高效，在较短滑跑距离内即完成安全减速。",
+    "进近阶段水平仪监测到细腻的侧风修正姿态，接地瞬间完美对准跑道中线。",
+    "连续下降进近（CDA）衔接柔和拉平，接地速度与姿态控制精准。",
+    "五边进近速率控制得当，主轮接地平稳，滑行减速一气呵成。"
+  ],
+  "takeoff_en": [
+    "Takeoff roll showed strong thrust with crisp rotation pitch on the attitude sensor and an impressive initial climb.",
+    "Takeoff acceleration was linear with textbook V1-to-V2 transition and a poised liftoff attitude.",
+    "Rotation was gentle and progressive with minimal vertical G-load spike, delivering high passenger comfort.",
+    "Characteristic heavy-weight takeoff roll, reaching V1/V2 smoothly before establishing a steady climb gradient.",
+    "Brisk takeoff acceleration enabled an early rotation and rapid initial climbout.",
+    "Strong high-density-altitude takeoff performance maintained generous speed margins through climbout.",
+    "Energetic takeoff roll and positive rotation G-response demonstrated robust climb performance.",
+    "Shallow-pitch acceleration climb profile prioritized cabin quietness and rapid en-route speed buildup."
+  ],
+  "cruise_en": [
+    "Cruise remained in smooth stratospheric air with negligible G-load variance on the 3-axis accelerometer.",
+    "Cruise altitude and ground speed stayed locked in steady trim, reflecting excellent flight stability.",
+    "Occasional light shear chop was recorded during cruise, though aircraft attitude remained well-damped.",
+    "Noticeable convective turbulence was captured mid-cruise while flight controls maintained safe attitude bounds.",
+    "Regional cruise profile held a steady intermediate flight level with consistent ground speed.",
+    "Favorable tailwinds boosted ground speed significantly during the cruise segment.",
+    "Sustained long-range cruise profile demonstrated disciplined altitude and speed management.",
+    "Compact short-haul profile transitioned seamlessly from top-of-climb to descent."
+  ],
+  "pressure_en": [
+    "Cabin pressurization performed admirably, maintaining a low equivalent cabin altitude for superior comfort.",
+    "Barometer telemetry traced a textbook pressurization cycle with smooth climb and descent pressure gradients.",
+    "Isobaric cabin pressure held rock-steady throughout cruise with minimal fluctuation.",
+    "Descent re-pressurization followed a controlled rate well within comfortable ear-clearing limits.",
+    "Gentle cabin pressure transitions throughout the flight reflected modern environmental control tuning.",
+    "Cabin pressure differential remained minimal and smoothly regulated.",
+    "High-altitude pressurization cycle completed smoothly with seamless field-elevation equalization before landing.",
+    "Continuous barometric logging confirmed a well-regulated and comfortable cabin environment."
+  ],
+  "landing_en": [
+    "Final flare and touchdown were remarkably soft with minimal vertical G impact—a true butter landing.",
+    "Stabilized final approach led to an on-target Vapp touchdown and smooth, linear rollout braking.",
+    "A positive, firm touchdown ensured immediate wheel spin-up and authoritative runway deceleration.",
+    "Landing rollout utilized runway length smoothly with gentle deceleration to taxi speed.",
+    "Prompt autobrake and reverse-thrust application achieved an efficient short-field deceleration.",
+    "Attitude sensors captured precise crosswind correction during flare prior to a centerline touchdown.",
+    "Continuous descent approach blended smoothly into the flare for a well-controlled landing.",
+    "Approach speed and sink rate remained well-stabilized through main-gear touchdown."
+  ]
+}

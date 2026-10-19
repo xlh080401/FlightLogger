@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AeroLog · Flight Log</string>
+    <string name="notification_channel_name">Flight Telemetry Recorder</string>
+    <string name="notification_channel_desc">Records level attitude, accelerometer, barometer, and GPS flight telemetry</string>
+    <string name="notification_recording_started">Recording flight telemetry (Offline Mode)…</string>
+    <string name="notification_status">%1$s · Alt %2$s · Spd %3$s · Pitch %4$s · %5$d sats</string>
+
+    <!-- Phases -->
+    <string name="phase_ground">GROUND</string>
+    <string name="phase_taxi">TAXI</string>
+    <string name="phase_takeoff">TAKEOFF</string>
+    <string name="phase_climb">CLIMB</string>
+    <string name="phase_cruise">CRUISE</string>
+    <string name="phase_descent">DESCENT</string>
+    <string name="phase_landing">LANDING</string>
+</resources>

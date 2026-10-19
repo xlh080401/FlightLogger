@@ -1,0 +1,314 @@
+[
+    {
+        "icao": "A20N",
+        "name": "Airbus A320neo",
+        "maxPax": 195,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A21N",
+        "name": "Airbus A321neo",
+        "maxPax": 244,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A220",
+        "name": "Airbus A220-300",
+        "maxPax": 160,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A306",
+        "name": "Airbus A300-600",
+        "maxPax": 345,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A318",
+        "name": "Airbus A318",
+        "maxPax": 132,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A319",
+        "name": "Airbus A319",
+        "maxPax": 156,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A320",
+        "name": "Airbus A320",
+        "maxPax": 180,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A321",
+        "name": "Airbus A321",
+        "maxPax": 240,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "A332",
+        "name": "Airbus A330-200",
+        "maxPax": 406,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A333",
+        "name": "Airbus A330-300",
+        "maxPax": 440,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A338",
+        "name": "Airbus A330-800neo",
+        "maxPax": 406,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A339",
+        "name": "Airbus A330-900neo",
+        "maxPax": 460,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A343",
+        "name": "Airbus A340-300",
+        "maxPax": 440,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A346",
+        "name": "Airbus A340-600",
+        "maxPax": 475,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A359",
+        "name": "Airbus A350-900",
+        "maxPax": 440,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A35K",
+        "name": "Airbus A350-1000",
+        "maxPax": 480,
+        "category": "Widebody"
+    },
+    {
+        "icao": "A388",
+        "name": "Airbus A380-800",
+        "maxPax": 853,
+        "category": "Widebody"
+    },
+    {
+        "icao": "ARJ21",
+        "name": "COMAC ARJ21",
+        "maxPax": 90,
+        "category": "Regional"
+    },
+    {
+        "icao": "AT45",
+        "name": "ATR 42-500",
+        "maxPax": 50,
+        "category": "Regional"
+    },
+    {
+        "icao": "AT72",
+        "name": "ATR 72",
+        "maxPax": 78,
+        "category": "Regional"
+    },
+    {
+        "icao": "AT76",
+        "name": "ATR 72-600",
+        "maxPax": 78,
+        "category": "Regional"
+    },
+    {
+        "icao": "B38M",
+        "name": "Boeing 737 MAX 8",
+        "maxPax": 210,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B39M",
+        "name": "Boeing 737 MAX 9",
+        "maxPax": 220,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B737",
+        "name": "Boeing 737-700",
+        "maxPax": 149,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B738",
+        "name": "Boeing 737-800",
+        "maxPax": 189,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B739",
+        "name": "Boeing 737-900",
+        "maxPax": 220,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B744",
+        "name": "Boeing 747-400",
+        "maxPax": 524,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B748",
+        "name": "Boeing 747-8",
+        "maxPax": 605,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B752",
+        "name": "Boeing 757-200",
+        "maxPax": 239,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B753",
+        "name": "Boeing 757-300",
+        "maxPax": 295,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "B763",
+        "name": "Boeing 767-300",
+        "maxPax": 350,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B764",
+        "name": "Boeing 767-400",
+        "maxPax": 375,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B772",
+        "name": "Boeing 777-200",
+        "maxPax": 440,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B773",
+        "name": "Boeing 777-300",
+        "maxPax": 550,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B77L",
+        "name": "Boeing 777-200LR",
+        "maxPax": 350,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B77W",
+        "name": "Boeing 777-300ER",
+        "maxPax": 550,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B788",
+        "name": "Boeing 787-8",
+        "maxPax": 381,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B789",
+        "name": "Boeing 787-9",
+        "maxPax": 420,
+        "category": "Widebody"
+    },
+    {
+        "icao": "B78X",
+        "name": "Boeing 787-10",
+        "maxPax": 440,
+        "category": "Widebody"
+    },
+    {
+        "icao": "C919",
+        "name": "COMAC C919",
+        "maxPax": 192,
+        "category": "Narrowbody"
+    },
+    {
+        "icao": "CRJ2",
+        "name": "Canadair CRJ-200",
+        "maxPax": 50,
+        "category": "Regional"
+    },
+    {
+        "icao": "CRJ7",
+        "name": "Canadair CRJ-700",
+        "maxPax": 78,
+        "category": "Regional"
+    },
+    {
+        "icao": "CRJ9",
+        "name": "Canadair CRJ-900",
+        "maxPax": 90,
+        "category": "Regional"
+    },
+    {
+        "icao": "CRJX",
+        "name": "Canadair CRJ-1000",
+        "maxPax": 104,
+        "category": "Regional"
+    },
+    {
+        "icao": "DH8D",
+        "name": "Bombardier Dash 8 Q400",
+        "maxPax": 90,
+        "category": "Regional"
+    },
+    {
+        "icao": "E170",
+        "name": "Embraer E170",
+        "maxPax": 78,
+        "category": "Regional"
+    },
+    {
+        "icao": "E175",
+        "name": "Embraer E175",
+        "maxPax": 88,
+        "category": "Regional"
+    },
+    {
+        "icao": "E190",
+        "name": "Embraer E190",
+        "maxPax": 114,
+        "category": "Regional"
+    },
+    {
+        "icao": "E195",
+        "name": "Embraer E195",
+        "maxPax": 124,
+        "category": "Regional"
+    },
+    {
+        "icao": "E290",
+        "name": "Embraer E190-E2",
+        "maxPax": 114,
+        "category": "Regional"
+    },
+    {
+        "icao": "E295",
+        "name": "Embraer E195-E2",
+        "maxPax": 146,
+        "category": "Regional"
+    },
+    {
+        "icao": "AJ27",
+        "name": "COMAC ARJ21-700 (C909)",
+        "maxPax": 97,
+        "category": "Regional"
+    }
+]

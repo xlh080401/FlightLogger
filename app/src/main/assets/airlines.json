@@ -1,0 +1,4040 @@
+[
+  {
+    "iata": "2P",
+    "name": "PAL Express",
+    "nameZh": "菲航快运",
+    "logoRes": "logo_2p"
+  },
+  {
+    "iata": "3U",
+    "name": "Sichuan Airlines",
+    "nameZh": "四川航空",
+    "logoRes": "logo_3u"
+  },
+  {
+    "iata": "3V",
+    "name": "ASL Airlines Belgium",
+    "nameZh": "ASL比利时航空",
+    "logoRes": "logo_3v"
+  },
+  {
+    "iata": "4N",
+    "name": "Air North",
+    "nameZh": "北方航空",
+    "logoRes": "logo_4n"
+  },
+  {
+    "iata": "4U",
+    "name": "Germanwings",
+    "nameZh": "德国之翼",
+    "logoRes": "logo_4u"
+  },
+  {
+    "iata": "4Z",
+    "name": "Airlink",
+    "nameZh": "南非联航",
+    "logoRes": "logo_4z"
+  },
+  {
+    "iata": "5J",
+    "name": "Cebu Pacific",
+    "nameZh": "宿务太平洋航空",
+    "logoRes": "logo_5j"
+  },
+  {
+    "iata": "5T",
+    "name": "Canadian North",
+    "nameZh": "加拿大北方航空",
+    "logoRes": "logo_5t"
+  },
+  {
+    "iata": "5X",
+    "name": "UPS Airlines",
+    "nameZh": "联合包裹航空",
+    "logoRes": "logo_5x"
+  },
+  {
+    "iata": "6E",
+    "name": "IndiGo",
+    "nameZh": "靛蓝航空",
+    "logoRes": "logo_6e"
+  },
+  {
+    "iata": "7C",
+    "name": "Jeju Air",
+    "nameZh": "济州航空",
+    "logoRes": "logo_7c"
+  },
+  {
+    "iata": "8D",
+    "name": "FitsAir",
+    "nameZh": "菲茨航空",
+    "logoRes": "logo_8d"
+  },
+  {
+    "iata": "8L",
+    "name": "Lucky Air",
+    "nameZh": "祥鹏航空",
+    "logoRes": "logo_8l"
+  },
+  {
+    "iata": "8M",
+    "name": "Myanmar Airways International",
+    "nameZh": "缅甸国际航空",
+    "logoRes": "logo_8m"
+  },
+  {
+    "iata": "8P",
+    "name": "Pacific Coastal Airlines",
+    "nameZh": "太平洋海岸航空",
+    "logoRes": "logo_8p"
+  },
+  {
+    "iata": "8U",
+    "name": "Afriqiyah Airways",
+    "nameZh": "利比亚泛非航空",
+    "logoRes": "logo_8u"
+  },
+  {
+    "iata": "9H",
+    "name": "Air Changan",
+    "nameZh": "长安航空",
+    "logoRes": "logo_9h"
+  },
+  {
+    "iata": "A3",
+    "name": "Aegean Airlines",
+    "nameZh": "爱琴海航空",
+    "logoRes": "logo_a3"
+  },
+  {
+    "iata": "A9",
+    "name": "Georgian Airways",
+    "nameZh": "格鲁吉亚航空",
+    "logoRes": "logo_a9"
+  },
+  {
+    "iata": "AA",
+    "name": "American Airlines",
+    "nameZh": "美国航空",
+    "logoRes": "logo_aa"
+  },
+  {
+    "iata": "AB",
+    "name": "Air Berlin",
+    "nameZh": "Air Berlin",
+    "logoRes": "logo_ab"
+  },
+  {
+    "iata": "AC",
+    "name": "Air Canada",
+    "nameZh": "加拿大航空",
+    "logoRes": "logo_ac"
+  },
+  {
+    "iata": "AD",
+    "name": "Azul Brazilian Airlines",
+    "nameZh": "蓝色巴西航空",
+    "logoRes": "logo_ad"
+  },
+  {
+    "iata": "AE",
+    "name": "Mandarin Airlines",
+    "nameZh": "华信航空",
+    "logoRes": "logo_ae"
+  },
+  {
+    "iata": "AF",
+    "name": "Air France",
+    "nameZh": "法国航空",
+    "logoRes": "logo_af"
+  },
+  {
+    "iata": "AG",
+    "name": "All America US",
+    "nameZh": "All America US",
+    "logoRes": "logo_ag"
+  },
+  {
+    "iata": "AH",
+    "name": "Air Algerie",
+    "nameZh": "阿尔及利亚航空",
+    "logoRes": "logo_ah"
+  },
+  {
+    "iata": "AI",
+    "name": "Air India",
+    "nameZh": "印度航空",
+    "logoRes": "logo_ai"
+  },
+  {
+    "iata": "AJ",
+    "name": "Aero Contractors",
+    "nameZh": "Aero Contractors",
+    "logoRes": "logo_aj"
+  },
+  {
+    "iata": "AK",
+    "name": "AirAsia",
+    "nameZh": "亚洲航空",
+    "logoRes": "logo_ak"
+  },
+  {
+    "iata": "AL",
+    "name": "Skywalk Airlines",
+    "nameZh": "Skywalk Airlines",
+    "logoRes": "logo_al"
+  },
+  {
+    "iata": "AM",
+    "name": "Aeromexico",
+    "nameZh": "墨西哥航空",
+    "logoRes": "logo_am"
+  },
+  {
+    "iata": "AN",
+    "name": "Ansett Australia",
+    "nameZh": "Ansett Australia",
+    "logoRes": "logo_an"
+  },
+  {
+    "iata": "AO",
+    "name": "Avianova (Russia)",
+    "nameZh": "Avianova (Russia)",
+    "logoRes": "logo_ao"
+  },
+  {
+    "iata": "AP",
+    "name": "Air One",
+    "nameZh": "Air One",
+    "logoRes": "logo_ap"
+  },
+  {
+    "iata": "AQ",
+    "name": "9 Air",
+    "nameZh": "九元航空",
+    "logoRes": "logo_aq"
+  },
+  {
+    "iata": "AR",
+    "name": "Aerolineas Argentinas",
+    "nameZh": "阿根廷航空",
+    "logoRes": "logo_ar"
+  },
+  {
+    "iata": "AS",
+    "name": "Alaska Airlines",
+    "nameZh": "阿拉斯加航空",
+    "logoRes": "logo_as"
+  },
+  {
+    "iata": "AT",
+    "name": "Royal Air Maroc",
+    "nameZh": "摩洛哥皇家航空",
+    "logoRes": "logo_at"
+  },
+  {
+    "iata": "AU",
+    "name": "Austral Lineas Aereas",
+    "nameZh": "Austral Lineas Aereas",
+    "logoRes": "logo_au"
+  },
+  {
+    "iata": "AV",
+    "name": "Avianca",
+    "nameZh": "哥伦比亚航空",
+    "logoRes": "logo_av"
+  },
+  {
+    "iata": "AW",
+    "name": "Asian Wings Airways",
+    "nameZh": "Asian Wings Airways",
+    "logoRes": "logo_aw"
+  },
+  {
+    "iata": "AX",
+    "name": "Trans States Airlines",
+    "nameZh": "Trans States Airlines",
+    "logoRes": "logo_ax"
+  },
+  {
+    "iata": "AY",
+    "name": "Finnair",
+    "nameZh": "芬兰航空",
+    "logoRes": "logo_ay"
+  },
+  {
+    "iata": "AZ",
+    "name": "ITA Airways",
+    "nameZh": "意大利航空",
+    "logoRes": "logo_az"
+  },
+  {
+    "iata": "B2",
+    "name": "Belavia",
+    "nameZh": "白俄罗斯航空",
+    "logoRes": "logo_b2"
+  },
+  {
+    "iata": "B6",
+    "name": "JetBlue Airways",
+    "nameZh": "捷蓝航空",
+    "logoRes": "logo_b6"
+  },
+  {
+    "iata": "BA",
+    "name": "British Airways",
+    "nameZh": "英国航空",
+    "logoRes": "logo_ba"
+  },
+  {
+    "iata": "BB",
+    "name": "Seaborne Airlines",
+    "nameZh": "Seaborne Airlines",
+    "logoRes": "logo_bb"
+  },
+  {
+    "iata": "BC",
+    "name": "Skymark Airlines",
+    "nameZh": "天马航空",
+    "logoRes": "logo_bc"
+  },
+  {
+    "iata": "BD",
+    "name": "bmi",
+    "nameZh": "bmi",
+    "logoRes": "logo_bd"
+  },
+  {
+    "iata": "BE",
+    "name": "Flybe",
+    "nameZh": "弗莱比航空",
+    "logoRes": "logo_be"
+  },
+  {
+    "iata": "BF",
+    "name": "Aero-Service",
+    "nameZh": "Aero-Service",
+    "logoRes": "logo_bf"
+  },
+  {
+    "iata": "BG",
+    "name": "Biman Bangladesh Airlines",
+    "nameZh": "孟加拉航空",
+    "logoRes": "logo_bg"
+  },
+  {
+    "iata": "BH",
+    "name": "Hawkair",
+    "nameZh": "Hawkair",
+    "logoRes": "logo_bh"
+  },
+  {
+    "iata": "BI",
+    "name": "Royal Brunei Airlines",
+    "nameZh": "文莱皇家航空",
+    "logoRes": "logo_bi"
+  },
+  {
+    "iata": "BJ",
+    "name": "Nouvel Air Tunisie",
+    "nameZh": "Nouvel Air Tunisie",
+    "logoRes": "logo_bj"
+  },
+  {
+    "iata": "BK",
+    "name": "Okay Airways",
+    "nameZh": "奥凯航空",
+    "logoRes": "logo_bk"
+  },
+  {
+    "iata": "BL",
+    "name": "Jetstar Pacific",
+    "nameZh": "Jetstar Pacific",
+    "logoRes": "logo_bl"
+  },
+  {
+    "iata": "BM",
+    "name": "Air Sicilia",
+    "nameZh": "Air Sicilia",
+    "logoRes": "logo_bm"
+  },
+  {
+    "iata": "BN",
+    "name": "Horizon Airlines",
+    "nameZh": "Horizon Airlines",
+    "logoRes": "logo_bn"
+  },
+  {
+    "iata": "BP",
+    "name": "Air Botswana",
+    "nameZh": "Air Botswana",
+    "logoRes": "logo_bp"
+  },
+  {
+    "iata": "BQ",
+    "name": "Buquebus Líneas Aéreas",
+    "nameZh": "Buquebus Líneas Aéreas",
+    "logoRes": "logo_bq"
+  },
+  {
+    "iata": "BR",
+    "name": "EVA Air",
+    "nameZh": "长荣航空",
+    "logoRes": "logo_br"
+  },
+  {
+    "iata": "BS",
+    "name": "British International Helicopters",
+    "nameZh": "British International Helicopters",
+    "logoRes": "logo_bs"
+  },
+  {
+    "iata": "BT",
+    "name": "airBaltic",
+    "nameZh": "波罗的海航空",
+    "logoRes": "logo_bt"
+  },
+  {
+    "iata": "BU",
+    "name": "Baikotovitchestrian Airlines",
+    "nameZh": "Baikotovitchestrian Airlines",
+    "logoRes": "logo_bu"
+  },
+  {
+    "iata": "BV",
+    "name": "Blue Panorama Airlines",
+    "nameZh": "Blue Panorama Airlines",
+    "logoRes": "logo_bv"
+  },
+  {
+    "iata": "BW",
+    "name": "Caribbean Airlines",
+    "nameZh": "Caribbean Airlines",
+    "logoRes": "logo_bw"
+  },
+  {
+    "iata": "BX",
+    "name": "Air Busan",
+    "nameZh": "釜山航空",
+    "logoRes": "logo_bx"
+  },
+  {
+    "iata": "BY",
+    "name": "Thomsonfly",
+    "nameZh": "Thomsonfly",
+    "logoRes": "logo_by"
+  },
+  {
+    "iata": "BZ",
+    "name": "Black Stallion Airways",
+    "nameZh": "Black Stallion Airways",
+    "logoRes": "logo_bz"
+  },
+  {
+    "iata": "CA",
+    "name": "Air China",
+    "nameZh": "中国国际航空",
+    "logoRes": "logo_ca"
+  },
+  {
+    "iata": "CB",
+    "name": "CCML Airlines",
+    "nameZh": "CCML Airlines",
+    "logoRes": "logo_cb"
+  },
+  {
+    "iata": "CC",
+    "name": "Air Atlanta Icelandic",
+    "nameZh": "Air Atlanta Icelandic",
+    "logoRes": "logo_cc"
+  },
+  {
+    "iata": "CD",
+    "name": "Air India Regional",
+    "nameZh": "Air India Regional",
+    "logoRes": "logo_cd"
+  },
+  {
+    "iata": "CE",
+    "name": "Nationwide Airlines",
+    "nameZh": "Nationwide Airlines",
+    "logoRes": "logo_ce"
+  },
+  {
+    "iata": "CF",
+    "name": "City Airline",
+    "nameZh": "City Airline",
+    "logoRes": "logo_cf"
+  },
+  {
+    "iata": "CG",
+    "name": "Airlines PNG",
+    "nameZh": "Airlines PNG",
+    "logoRes": "logo_cg"
+  },
+  {
+    "iata": "CH",
+    "name": "Bemidji Airlines",
+    "nameZh": "Bemidji Airlines",
+    "logoRes": "logo_ch"
+  },
+  {
+    "iata": "CI",
+    "name": "China Airlines",
+    "nameZh": "中华航空",
+    "logoRes": "logo_ci"
+  },
+  {
+    "iata": "CJ",
+    "name": "BA CityFlyer",
+    "nameZh": "BA CityFlyer",
+    "logoRes": "logo_cj"
+  },
+  {
+    "iata": "CK",
+    "name": "China Cargo Airlines",
+    "nameZh": "中国货运航空",
+    "logoRes": "logo_ck"
+  },
+  {
+    "iata": "CL",
+    "name": "Lufthansa CityLine",
+    "nameZh": "Lufthansa CityLine",
+    "logoRes": "logo_cl"
+  },
+  {
+    "iata": "CM",
+    "name": "Copa Airlines",
+    "nameZh": "巴拿马航空",
+    "logoRes": "logo_cm"
+  },
+  {
+    "iata": "CN",
+    "name": "Canadian National Airways",
+    "nameZh": "Canadian National Airways",
+    "logoRes": "logo_cn"
+  },
+  {
+    "iata": "CO",
+    "name": "Continental Airlines",
+    "nameZh": "Continental Airlines",
+    "logoRes": "logo_co"
+  },
+  {
+    "iata": "CP",
+    "name": "Canadian Airlines",
+    "nameZh": "Canadian Airlines",
+    "logoRes": "logo_cp"
+  },
+  {
+    "iata": "CQ",
+    "name": "SOCHI AIR",
+    "nameZh": "SOCHI AIR",
+    "logoRes": "logo_cq"
+  },
+  {
+    "iata": "CS",
+    "name": "Continental Micronesia",
+    "nameZh": "Continental Micronesia",
+    "logoRes": "logo_cs"
+  },
+  {
+    "iata": "CT",
+    "name": "Alitalia Cityliner",
+    "nameZh": "Alitalia Cityliner",
+    "logoRes": "logo_ct"
+  },
+  {
+    "iata": "CU",
+    "name": "Cubana de Aviación",
+    "nameZh": "Cubana de Aviación",
+    "logoRes": "logo_cu"
+  },
+  {
+    "iata": "CV",
+    "name": "Air Chathams",
+    "nameZh": "Air Chathams",
+    "logoRes": "logo_cv"
+  },
+  {
+    "iata": "CW",
+    "name": "Air Marshall Islands",
+    "nameZh": "Air Marshall Islands",
+    "logoRes": "logo_cw"
+  },
+  {
+    "iata": "CX",
+    "name": "Cathay Pacific",
+    "nameZh": "国泰航空",
+    "logoRes": "logo_cx"
+  },
+  {
+    "iata": "CY",
+    "name": "Cyprus Airways",
+    "nameZh": "Cyprus Airways",
+    "logoRes": "logo_cy"
+  },
+  {
+    "iata": "CZ",
+    "name": "China Southern Airlines",
+    "nameZh": "中国南方航空",
+    "logoRes": "logo_cz"
+  },
+  {
+    "iata": "D7",
+    "name": "AirAsia X",
+    "nameZh": "亚洲航空X",
+    "logoRes": "logo_d7"
+  },
+  {
+    "iata": "DA",
+    "name": "Dana Air",
+    "nameZh": "Dana Air",
+    "logoRes": "logo_da"
+  },
+  {
+    "iata": "DB",
+    "name": "Brit Air",
+    "nameZh": "Brit Air",
+    "logoRes": "logo_db"
+  },
+  {
+    "iata": "DC",
+    "name": "Golden Air",
+    "nameZh": "Golden Air",
+    "logoRes": "logo_dc"
+  },
+  {
+    "iata": "DD",
+    "name": "Nok Air",
+    "nameZh": "皇雀航空",
+    "logoRes": "logo_dd"
+  },
+  {
+    "iata": "DE",
+    "name": "Condor",
+    "nameZh": "康多尔航空",
+    "logoRes": "logo_de"
+  },
+  {
+    "iata": "DF",
+    "name": "Michael Airlines",
+    "nameZh": "Michael Airlines",
+    "logoRes": "logo_df"
+  },
+  {
+    "iata": "DG",
+    "name": "Cebgo",
+    "nameZh": "宿翱航空",
+    "logoRes": "logo_dg"
+  },
+  {
+    "iata": "DH",
+    "name": "Dennis Sky",
+    "nameZh": "Dennis Sky",
+    "logoRes": "logo_dh"
+  },
+  {
+    "iata": "DI",
+    "name": "dba",
+    "nameZh": "dba",
+    "logoRes": "logo_di"
+  },
+  {
+    "iata": "DK",
+    "name": "Eastland Air",
+    "nameZh": "Eastland Air",
+    "logoRes": "logo_dk"
+  },
+  {
+    "iata": "DL",
+    "name": "Delta Air Lines",
+    "nameZh": "达美航空",
+    "logoRes": "logo_dl"
+  },
+  {
+    "iata": "DM",
+    "name": "Maersk",
+    "nameZh": "Maersk",
+    "logoRes": "logo_dm"
+  },
+  {
+    "iata": "DN",
+    "name": "Senegal Airlines",
+    "nameZh": "Senegal Airlines",
+    "logoRes": "logo_dn"
+  },
+  {
+    "iata": "DO",
+    "name": "Dominicana de Aviaci",
+    "nameZh": "Dominicana de Aviaci",
+    "logoRes": "logo_do"
+  },
+  {
+    "iata": "DP",
+    "name": "Pobeda",
+    "nameZh": "胜利航空",
+    "logoRes": "logo_dp"
+  },
+  {
+    "iata": "DQ",
+    "name": "Coastal Air",
+    "nameZh": "Coastal Air",
+    "logoRes": "logo_dq"
+  },
+  {
+    "iata": "DR",
+    "name": "Ruili Airlines",
+    "nameZh": "瑞丽航空",
+    "logoRes": "logo_dr"
+  },
+  {
+    "iata": "DS",
+    "name": "EasyJet (DS)",
+    "nameZh": "EasyJet (DS)",
+    "logoRes": "logo_ds"
+  },
+  {
+    "iata": "DT",
+    "name": "TAAG Angola Airlines",
+    "nameZh": "安哥拉航空",
+    "logoRes": "logo_dt"
+  },
+  {
+    "iata": "DU",
+    "name": "Norwegian Long Haul AS",
+    "nameZh": "Norwegian Long Haul AS",
+    "logoRes": "logo_du"
+  },
+  {
+    "iata": "DV",
+    "name": "Scat Air",
+    "nameZh": "Scat Air",
+    "logoRes": "logo_dv"
+  },
+  {
+    "iata": "DX",
+    "name": "DAT Danish Air Transport",
+    "nameZh": "DAT Danish Air Transport",
+    "logoRes": "logo_dx"
+  },
+  {
+    "iata": "DY",
+    "name": "Norwegian Air Shuttle",
+    "nameZh": "挪威航空",
+    "logoRes": "logo_dy"
+  },
+  {
+    "iata": "DZ",
+    "name": "Donghai Airlines",
+    "nameZh": "东海航空",
+    "logoRes": "logo_dz"
+  },
+  {
+    "iata": "EA",
+    "name": "European Air Express",
+    "nameZh": "European Air Express",
+    "logoRes": "logo_ea"
+  },
+  {
+    "iata": "EC",
+    "name": "Avialeasing Aviation Company",
+    "nameZh": "Avialeasing Aviation Company",
+    "logoRes": "logo_ec"
+  },
+  {
+    "iata": "ED",
+    "name": "Airblue",
+    "nameZh": "Airblue",
+    "logoRes": "logo_ed"
+  },
+  {
+    "iata": "EE",
+    "name": "Nordica",
+    "nameZh": "Nordica",
+    "logoRes": "logo_ee"
+  },
+  {
+    "iata": "EF",
+    "name": "Far Eastern Air Transport",
+    "nameZh": "Far Eastern Air Transport",
+    "logoRes": "logo_ef"
+  },
+  {
+    "iata": "EG",
+    "name": "Japan Asia Airways",
+    "nameZh": "Japan Asia Airways",
+    "logoRes": "logo_eg"
+  },
+  {
+    "iata": "EH",
+    "name": "ANA Wings",
+    "nameZh": "ANA之翼",
+    "logoRes": "logo_eh"
+  },
+  {
+    "iata": "EI",
+    "name": "Aer Lingus",
+    "nameZh": "爱尔兰航空",
+    "logoRes": "logo_ei"
+  },
+  {
+    "iata": "EJ",
+    "name": "New England Airlines",
+    "nameZh": "New England Airlines",
+    "logoRes": "logo_ej"
+  },
+  {
+    "iata": "EK",
+    "name": "Emirates",
+    "nameZh": "阿联酋航空",
+    "logoRes": "logo_ek"
+  },
+  {
+    "iata": "EL",
+    "name": "Air Nippon",
+    "nameZh": "Air Nippon",
+    "logoRes": "logo_el"
+  },
+  {
+    "iata": "EM",
+    "name": "Aero Benin",
+    "nameZh": "Aero Benin",
+    "logoRes": "logo_em"
+  },
+  {
+    "iata": "EN",
+    "name": "Air Dolomiti",
+    "nameZh": "Air Dolomiti",
+    "logoRes": "logo_en"
+  },
+  {
+    "iata": "EO",
+    "name": "Express One International",
+    "nameZh": "Express One International",
+    "logoRes": "logo_eo"
+  },
+  {
+    "iata": "EP",
+    "name": "Iran Aseman Airlines",
+    "nameZh": "Iran Aseman Airlines",
+    "logoRes": "logo_ep"
+  },
+  {
+    "iata": "EQ",
+    "name": "TAME",
+    "nameZh": "TAME",
+    "logoRes": "logo_eq"
+  },
+  {
+    "iata": "ER",
+    "name": "Fly Europa",
+    "nameZh": "Fly Europa",
+    "logoRes": "logo_er"
+  },
+  {
+    "iata": "ES",
+    "name": "EuropeSky",
+    "nameZh": "EuropeSky",
+    "logoRes": "logo_es"
+  },
+  {
+    "iata": "ET",
+    "name": "Ethiopian Airlines",
+    "nameZh": "埃塞俄比亚航空",
+    "logoRes": "logo_et"
+  },
+  {
+    "iata": "EU",
+    "name": "Chengdu Airlines",
+    "nameZh": "成都航空",
+    "logoRes": "logo_eu"
+  },
+  {
+    "iata": "EV",
+    "name": "Atlantic Southeast Airlines",
+    "nameZh": "Atlantic Southeast Airlines",
+    "logoRes": "logo_ev"
+  },
+  {
+    "iata": "EW",
+    "name": "Eurowings",
+    "nameZh": "欧洲之翼",
+    "logoRes": "logo_ew"
+  },
+  {
+    "iata": "EX",
+    "name": "Europe Jet",
+    "nameZh": "Europe Jet",
+    "logoRes": "logo_ex"
+  },
+  {
+    "iata": "EY",
+    "name": "Etihad Airways",
+    "nameZh": "阿提哈德航空",
+    "logoRes": "logo_ey"
+  },
+  {
+    "iata": "EZ",
+    "name": "Evergreen International Airlines",
+    "nameZh": "Evergreen International Airlines",
+    "logoRes": "logo_ez"
+  },
+  {
+    "iata": "F9",
+    "name": "Frontier Airlines",
+    "nameZh": "边疆航空",
+    "logoRes": "logo_f9"
+  },
+  {
+    "iata": "FA",
+    "name": "FlySafair",
+    "nameZh": "萨法航空",
+    "logoRes": "logo_fa"
+  },
+  {
+    "iata": "FB",
+    "name": "Bulgaria Air",
+    "nameZh": "保加利亚航空",
+    "logoRes": "logo_fb"
+  },
+  {
+    "iata": "FC",
+    "name": "Finncomm Airlines",
+    "nameZh": "Finncomm Airlines",
+    "logoRes": "logo_fc"
+  },
+  {
+    "iata": "FD",
+    "name": "Thai AirAsia",
+    "nameZh": "泰国亚洲航空",
+    "logoRes": "logo_fd"
+  },
+  {
+    "iata": "FF",
+    "name": "Fly France",
+    "nameZh": "Fly France",
+    "logoRes": "logo_ff"
+  },
+  {
+    "iata": "FG",
+    "name": "Ariana Afghan Airlines",
+    "nameZh": "Ariana Afghan Airlines",
+    "logoRes": "logo_fg"
+  },
+  {
+    "iata": "FH",
+    "name": "FlyHigh Airlines Ireland (FH)",
+    "nameZh": "FlyHigh Airlines Ireland (FH)",
+    "logoRes": "logo_fh"
+  },
+  {
+    "iata": "FI",
+    "name": "Icelandair",
+    "nameZh": "冰岛航空",
+    "logoRes": "logo_fi"
+  },
+  {
+    "iata": "FJ",
+    "name": "Fiji Airways",
+    "nameZh": "斐济航空",
+    "logoRes": "logo_fj"
+  },
+  {
+    "iata": "FK",
+    "name": "Africa West",
+    "nameZh": "Africa West",
+    "logoRes": "logo_fk"
+  },
+  {
+    "iata": "FL",
+    "name": "AirTran Airways",
+    "nameZh": "AirTran Airways",
+    "logoRes": "logo_fl"
+  },
+  {
+    "iata": "FM",
+    "name": "Shanghai Airlines",
+    "nameZh": "上海航空",
+    "logoRes": "logo_fm"
+  },
+  {
+    "iata": "FN",
+    "name": "Regional Airlines",
+    "nameZh": "Regional Airlines",
+    "logoRes": "logo_fn"
+  },
+  {
+    "iata": "FO",
+    "name": "Airlines Of Tasmania",
+    "nameZh": "Airlines Of Tasmania",
+    "logoRes": "logo_fo"
+  },
+  {
+    "iata": "FP",
+    "name": "Freedom Air",
+    "nameZh": "Freedom Air",
+    "logoRes": "logo_fp"
+  },
+  {
+    "iata": "FQ",
+    "name": "Thomas Cook Airlines",
+    "nameZh": "Thomas Cook Airlines",
+    "logoRes": "logo_fq"
+  },
+  {
+    "iata": "FR",
+    "name": "Ryanair",
+    "nameZh": "瑞安航空",
+    "logoRes": "logo_fr"
+  },
+  {
+    "iata": "FS",
+    "name": "Servicios de Transportes A",
+    "nameZh": "Servicios de Transportes A",
+    "logoRes": "logo_fs"
+  },
+  {
+    "iata": "FT",
+    "name": "Siem Reap Airways",
+    "nameZh": "Siem Reap Airways",
+    "logoRes": "logo_ft"
+  },
+  {
+    "iata": "FU",
+    "name": "Fuzhou Airlines",
+    "nameZh": "福州航空",
+    "logoRes": "logo_fu"
+  },
+  {
+    "iata": "FV",
+    "name": "Rossiya-Russian Airlines",
+    "nameZh": "Rossiya-Russian Airlines",
+    "logoRes": "logo_fv"
+  },
+  {
+    "iata": "FW",
+    "name": "Ibex Airlines",
+    "nameZh": "Ibex Airlines",
+    "logoRes": "logo_fw"
+  },
+  {
+    "iata": "FX",
+    "name": "FedEx Express",
+    "nameZh": "联邦快递",
+    "logoRes": "logo_fx"
+  },
+  {
+    "iata": "FY",
+    "name": "Firefly",
+    "nameZh": "萤火虫航空",
+    "logoRes": "logo_fy"
+  },
+  {
+    "iata": "FZ",
+    "name": "flydubai",
+    "nameZh": "迪拜航空",
+    "logoRes": "logo_fz"
+  },
+  {
+    "iata": "G3",
+    "name": "GOL Linhas Aereas",
+    "nameZh": "高尔航空",
+    "logoRes": "logo_g3"
+  },
+  {
+    "iata": "G4",
+    "name": "Allegiant Air",
+    "nameZh": "忠实航空",
+    "logoRes": "logo_g4"
+  },
+  {
+    "iata": "G5",
+    "name": "China Express Airlines",
+    "nameZh": "华夏航空",
+    "logoRes": "logo_g5"
+  },
+  {
+    "iata": "G9",
+    "name": "Air Arabia",
+    "nameZh": "阿拉伯航空",
+    "logoRes": "logo_g9"
+  },
+  {
+    "iata": "GA",
+    "name": "Garuda Indonesia",
+    "nameZh": "印尼鹰航",
+    "logoRes": "logo_ga"
+  },
+  {
+    "iata": "GB",
+    "name": "BRAZIL AIR",
+    "nameZh": "BRAZIL AIR",
+    "logoRes": "logo_gb"
+  },
+  {
+    "iata": "GE",
+    "name": "TransAsia Airways",
+    "nameZh": "TransAsia Airways",
+    "logoRes": "logo_ge"
+  },
+  {
+    "iata": "GF",
+    "name": "Gulf Air",
+    "nameZh": "海湾航空",
+    "logoRes": "logo_gf"
+  },
+  {
+    "iata": "GG",
+    "name": "Air Guyane",
+    "nameZh": "Air Guyane",
+    "logoRes": "logo_gg"
+  },
+  {
+    "iata": "GH",
+    "name": "Globus",
+    "nameZh": "Globus",
+    "logoRes": "logo_gh"
+  },
+  {
+    "iata": "GI",
+    "name": "Itek Air",
+    "nameZh": "Itek Air",
+    "logoRes": "logo_gi"
+  },
+  {
+    "iata": "GJ",
+    "name": "Loong Air",
+    "nameZh": "长龙航空",
+    "logoRes": "logo_gj"
+  },
+  {
+    "iata": "GK",
+    "name": "Jetstar Japan",
+    "nameZh": "捷星日本",
+    "logoRes": "logo_gk"
+  },
+  {
+    "iata": "GL",
+    "name": "Air Greenland",
+    "nameZh": "Air Greenland",
+    "logoRes": "logo_gl"
+  },
+  {
+    "iata": "GM",
+    "name": "German International Air Lines",
+    "nameZh": "German International Air Lines",
+    "logoRes": "logo_gm"
+  },
+  {
+    "iata": "GN",
+    "name": "GNB Linhas Aereas",
+    "nameZh": "GNB Linhas Aereas",
+    "logoRes": "logo_gn"
+  },
+  {
+    "iata": "GO",
+    "name": "Kuzu Airlines Cargo",
+    "nameZh": "Kuzu Airlines Cargo",
+    "logoRes": "logo_go"
+  },
+  {
+    "iata": "GP",
+    "name": "Gadair European Airlines",
+    "nameZh": "Gadair European Airlines",
+    "logoRes": "logo_gp"
+  },
+  {
+    "iata": "GR",
+    "name": "Aurigny Air Services",
+    "nameZh": "Aurigny Air Services",
+    "logoRes": "logo_gr"
+  },
+  {
+    "iata": "GS",
+    "name": "Tianjin Airlines",
+    "nameZh": "天津航空",
+    "logoRes": "logo_gs"
+  },
+  {
+    "iata": "GT",
+    "name": "Guilin Airlines",
+    "nameZh": "桂林航空",
+    "logoRes": "logo_gt"
+  },
+  {
+    "iata": "GV",
+    "name": "Aero Flight",
+    "nameZh": "Aero Flight",
+    "logoRes": "logo_gv"
+  },
+  {
+    "iata": "GW",
+    "name": "Kuban Airlines",
+    "nameZh": "Kuban Airlines",
+    "logoRes": "logo_gw"
+  },
+  {
+    "iata": "GX",
+    "name": "GermanXL",
+    "nameZh": "GermanXL",
+    "logoRes": "logo_gx"
+  },
+  {
+    "iata": "GY",
+    "name": "Colorful Guizhou Airlines",
+    "nameZh": "多彩贵州航空",
+    "logoRes": "logo_gy"
+  },
+  {
+    "iata": "GZ",
+    "name": "Air Rarotonga",
+    "nameZh": "Air Rarotonga",
+    "logoRes": "logo_gz"
+  },
+  {
+    "iata": "H2",
+    "name": "Sky Airline",
+    "nameZh": "天空航空",
+    "logoRes": "logo_h2"
+  },
+  {
+    "iata": "HA",
+    "name": "Hawaiian Airlines",
+    "nameZh": "夏威夷航空",
+    "logoRes": "logo_ha"
+  },
+  {
+    "iata": "HC",
+    "name": "Himalayan Airlines",
+    "nameZh": "Himalayan Airlines",
+    "logoRes": "logo_hc"
+  },
+  {
+    "iata": "HD",
+    "name": "Air Do",
+    "nameZh": "北海道航空",
+    "logoRes": "logo_hd"
+  },
+  {
+    "iata": "HE",
+    "name": "Luftfahrtgesellschaft Walter",
+    "nameZh": "Luftfahrtgesellschaft Walter",
+    "logoRes": "logo_he"
+  },
+  {
+    "iata": "HF",
+    "name": "Hapagfly",
+    "nameZh": "Hapagfly",
+    "logoRes": "logo_hf"
+  },
+  {
+    "iata": "HG",
+    "name": "Niki",
+    "nameZh": "Niki",
+    "logoRes": "logo_hg"
+  },
+  {
+    "iata": "HH",
+    "name": "Air Hamburg (AHO)",
+    "nameZh": "Air Hamburg (AHO)",
+    "logoRes": "logo_hh"
+  },
+  {
+    "iata": "HI",
+    "name": "Papillon Grand Canyon Helicopters",
+    "nameZh": "Papillon Grand Canyon Helicopters",
+    "logoRes": "logo_hi"
+  },
+  {
+    "iata": "HK",
+    "name": "Yangon Airways",
+    "nameZh": "Yangon Airways",
+    "logoRes": "logo_hk"
+  },
+  {
+    "iata": "HM",
+    "name": "Air Seychelles",
+    "nameZh": "塞舌尔航空",
+    "logoRes": "logo_hm"
+  },
+  {
+    "iata": "HN",
+    "name": "Hankook Airline",
+    "nameZh": "Hankook Airline",
+    "logoRes": "logo_hn"
+  },
+  {
+    "iata": "HO",
+    "name": "Juneyao Airlines",
+    "nameZh": "吉祥航空",
+    "logoRes": "logo_ho"
+  },
+  {
+    "iata": "HP",
+    "name": "America West Airlines",
+    "nameZh": "America West Airlines",
+    "logoRes": "logo_hp"
+  },
+  {
+    "iata": "HR",
+    "name": "China United Airlines",
+    "nameZh": "China United Airlines",
+    "logoRes": "logo_hr"
+  },
+  {
+    "iata": "HT",
+    "name": "Hellenic Imperial Airways",
+    "nameZh": "Hellenic Imperial Airways",
+    "logoRes": "logo_ht"
+  },
+  {
+    "iata": "HU",
+    "name": "Hainan Airlines",
+    "nameZh": "海南航空",
+    "logoRes": "logo_hu"
+  },
+  {
+    "iata": "HV",
+    "name": "Transavia",
+    "nameZh": "泛航航空",
+    "logoRes": "logo_hv"
+  },
+  {
+    "iata": "HW",
+    "name": "Hello",
+    "nameZh": "Hello",
+    "logoRes": "logo_hw"
+  },
+  {
+    "iata": "HX",
+    "name": "Hong Kong Airlines",
+    "nameZh": "香港航空",
+    "logoRes": "logo_hx"
+  },
+  {
+    "iata": "HY",
+    "name": "Uzbekistan Airways",
+    "nameZh": "乌兹别克斯坦航空",
+    "logoRes": "logo_hy"
+  },
+  {
+    "iata": "HZ",
+    "name": "Sat Airlines",
+    "nameZh": "Sat Airlines",
+    "logoRes": "logo_hz"
+  },
+  {
+    "iata": "IA",
+    "name": "Iraqi Airways",
+    "nameZh": "伊拉克航空",
+    "logoRes": "logo_ia"
+  },
+  {
+    "iata": "IB",
+    "name": "Iberia",
+    "nameZh": "西班牙国家航空",
+    "logoRes": "logo_ib"
+  },
+  {
+    "iata": "IC",
+    "name": "Indian Airlines",
+    "nameZh": "Indian Airlines",
+    "logoRes": "logo_ic"
+  },
+  {
+    "iata": "ID",
+    "name": "Batik Air",
+    "nameZh": "巴迪航空",
+    "logoRes": "logo_id"
+  },
+  {
+    "iata": "IE",
+    "name": "Solomon Airlines",
+    "nameZh": "所罗门航空",
+    "logoRes": "logo_ie"
+  },
+  {
+    "iata": "IF",
+    "name": "Islas Airways",
+    "nameZh": "Islas Airways",
+    "logoRes": "logo_if"
+  },
+  {
+    "iata": "IG",
+    "name": "Meridiana",
+    "nameZh": "Meridiana",
+    "logoRes": "logo_ig"
+  },
+  {
+    "iata": "II",
+    "name": "LSM International",
+    "nameZh": "LSM International",
+    "logoRes": "logo_ii"
+  },
+  {
+    "iata": "IJ",
+    "name": "Spring Airlines Japan",
+    "nameZh": "春秋航空日本",
+    "logoRes": "logo_ij"
+  },
+  {
+    "iata": "IK",
+    "name": "Imair Airlines",
+    "nameZh": "Imair Airlines",
+    "logoRes": "logo_ik"
+  },
+  {
+    "iata": "IN",
+    "name": "MAT Macedonian Airlines",
+    "nameZh": "MAT Macedonian Airlines",
+    "logoRes": "logo_in"
+  },
+  {
+    "iata": "IO",
+    "name": "Indonesian Airlines",
+    "nameZh": "Indonesian Airlines",
+    "logoRes": "logo_io"
+  },
+  {
+    "iata": "IP",
+    "name": "Island Spirit",
+    "nameZh": "Island Spirit",
+    "logoRes": "logo_ip"
+  },
+  {
+    "iata": "IQ",
+    "name": "Augsburg Airways",
+    "nameZh": "Augsburg Airways",
+    "logoRes": "logo_iq"
+  },
+  {
+    "iata": "IR",
+    "name": "Iran Air",
+    "nameZh": "伊朗航空",
+    "logoRes": "logo_ir"
+  },
+  {
+    "iata": "IS",
+    "name": "Island Airlines",
+    "nameZh": "Island Airlines",
+    "logoRes": "logo_is"
+  },
+  {
+    "iata": "IT",
+    "name": "Kingfisher Airlines",
+    "nameZh": "Kingfisher Airlines",
+    "logoRes": "logo_it"
+  },
+  {
+    "iata": "IV",
+    "name": "Wind Jet",
+    "nameZh": "Wind Jet",
+    "logoRes": "logo_iv"
+  },
+  {
+    "iata": "IW",
+    "name": "Wings Air",
+    "nameZh": "飞翼航空",
+    "logoRes": "logo_iw"
+  },
+  {
+    "iata": "IX",
+    "name": "Air India Express",
+    "nameZh": "印度快运航空",
+    "logoRes": "logo_ix"
+  },
+  {
+    "iata": "IY",
+    "name": "Yemenia",
+    "nameZh": "Yemenia",
+    "logoRes": "logo_iy"
+  },
+  {
+    "iata": "IZ",
+    "name": "Arkia Israel Airlines",
+    "nameZh": "Arkia Israel Airlines",
+    "logoRes": "logo_iz"
+  },
+  {
+    "iata": "J2",
+    "name": "Azerbaijan Airlines",
+    "nameZh": "阿塞拜疆航空",
+    "logoRes": "logo_j2"
+  },
+  {
+    "iata": "J9",
+    "name": "Jazeera Airways",
+    "nameZh": "半岛航空",
+    "logoRes": "logo_j9"
+  },
+  {
+    "iata": "JA",
+    "name": "JetSMART",
+    "nameZh": "捷聪航空",
+    "logoRes": "logo_ja"
+  },
+  {
+    "iata": "JB",
+    "name": "Helijet",
+    "nameZh": "Helijet",
+    "logoRes": "logo_jb"
+  },
+  {
+    "iata": "JC",
+    "name": "JAL Express",
+    "nameZh": "JAL Express",
+    "logoRes": "logo_jc"
+  },
+  {
+    "iata": "JD",
+    "name": "Beijing Capital Airlines",
+    "nameZh": "首都航空",
+    "logoRes": "logo_jd"
+  },
+  {
+    "iata": "JE",
+    "name": "Mango",
+    "nameZh": "Mango",
+    "logoRes": "logo_je"
+  },
+  {
+    "iata": "JF",
+    "name": "Jetairfly",
+    "nameZh": "Jetairfly",
+    "logoRes": "logo_jf"
+  },
+  {
+    "iata": "JG",
+    "name": "Jetgo Australia",
+    "nameZh": "Jetgo Australia",
+    "logoRes": "logo_jg"
+  },
+  {
+    "iata": "JH",
+    "name": "Fuji Dream Airlines",
+    "nameZh": "Fuji Dream Airlines",
+    "logoRes": "logo_jh"
+  },
+  {
+    "iata": "JI",
+    "name": "Midway Airlines",
+    "nameZh": "Midway Airlines",
+    "logoRes": "logo_ji"
+  },
+  {
+    "iata": "JJ",
+    "name": "LATAM Brasil",
+    "nameZh": "拉美巴西航空",
+    "logoRes": "logo_jj"
+  },
+  {
+    "iata": "JK",
+    "name": "Spanair",
+    "nameZh": "Spanair",
+    "logoRes": "logo_jk"
+  },
+  {
+    "iata": "JL",
+    "name": "Japan Airlines",
+    "nameZh": "日本航空",
+    "logoRes": "logo_jl"
+  },
+  {
+    "iata": "JM",
+    "name": "Air Jamaica",
+    "nameZh": "Air Jamaica",
+    "logoRes": "logo_jm"
+  },
+  {
+    "iata": "JN",
+    "name": "Excel Airways",
+    "nameZh": "Excel Airways",
+    "logoRes": "logo_jn"
+  },
+  {
+    "iata": "JO",
+    "name": "JALways",
+    "nameZh": "JALways",
+    "logoRes": "logo_jo"
+  },
+  {
+    "iata": "JP",
+    "name": "Adria Airways",
+    "nameZh": "Adria Airways",
+    "logoRes": "logo_jp"
+  },
+  {
+    "iata": "JQ",
+    "name": "Jetstar Airways",
+    "nameZh": "捷星航空",
+    "logoRes": "logo_jq"
+  },
+  {
+    "iata": "JR",
+    "name": "Joy Air",
+    "nameZh": "Joy Air",
+    "logoRes": "logo_jr"
+  },
+  {
+    "iata": "JS",
+    "name": "Air Koryo",
+    "nameZh": "Air Koryo",
+    "logoRes": "logo_js"
+  },
+  {
+    "iata": "JT",
+    "name": "Lion Air",
+    "nameZh": "狮航",
+    "logoRes": "logo_jt"
+  },
+  {
+    "iata": "JU",
+    "name": "Air Serbia",
+    "nameZh": "塞尔维亚航空",
+    "logoRes": "logo_ju"
+  },
+  {
+    "iata": "JV",
+    "name": "Bearskin Lake Air Service",
+    "nameZh": "Bearskin Lake Air Service",
+    "logoRes": "logo_jv"
+  },
+  {
+    "iata": "JW",
+    "name": "Arrow Air",
+    "nameZh": "Arrow Air",
+    "logoRes": "logo_jw"
+  },
+  {
+    "iata": "JX",
+    "name": "Jusur airways",
+    "nameZh": "Jusur airways",
+    "logoRes": "logo_jx"
+  },
+  {
+    "iata": "JY",
+    "name": "Aereonautica militare",
+    "nameZh": "Aereonautica militare",
+    "logoRes": "logo_jy"
+  },
+  {
+    "iata": "JZ",
+    "name": "Skyways Express",
+    "nameZh": "Skyways Express",
+    "logoRes": "logo_jz"
+  },
+  {
+    "iata": "K6",
+    "name": "Cambodia Angkor Air",
+    "nameZh": "柬埔寨吴哥航空",
+    "logoRes": "logo_k6"
+  },
+  {
+    "iata": "KA",
+    "name": "Cathay Dragon",
+    "nameZh": "国泰港龙航空",
+    "logoRes": "logo_ka"
+  },
+  {
+    "iata": "KB",
+    "name": "Druk Air",
+    "nameZh": "不丹皇家航空",
+    "logoRes": "logo_kb"
+  },
+  {
+    "iata": "KC",
+    "name": "Air Astana",
+    "nameZh": "阿斯塔纳航空",
+    "logoRes": "logo_kc"
+  },
+  {
+    "iata": "KD",
+    "name": "KD Avia",
+    "nameZh": "KD Avia",
+    "logoRes": "logo_kd"
+  },
+  {
+    "iata": "KE",
+    "name": "Korean Air",
+    "nameZh": "大韩航空",
+    "logoRes": "logo_ke"
+  },
+  {
+    "iata": "KF",
+    "name": "Blue1",
+    "nameZh": "Blue1",
+    "logoRes": "logo_kf"
+  },
+  {
+    "iata": "KG",
+    "name": "Royal Airways",
+    "nameZh": "Royal Airways",
+    "logoRes": "logo_kg"
+  },
+  {
+    "iata": "KH",
+    "name": "Kharkiv Airlines",
+    "nameZh": "Kharkiv Airlines",
+    "logoRes": "logo_kh"
+  },
+  {
+    "iata": "KI",
+    "name": "Adam Air",
+    "nameZh": "Adam Air",
+    "logoRes": "logo_ki"
+  },
+  {
+    "iata": "KJ",
+    "name": "British Mediterranean Airways",
+    "nameZh": "British Mediterranean Airways",
+    "logoRes": "logo_kj"
+  },
+  {
+    "iata": "KK",
+    "name": "Atlasjet",
+    "nameZh": "Atlasjet",
+    "logoRes": "logo_kk"
+  },
+  {
+    "iata": "KL",
+    "name": "KLM Royal Dutch Airlines",
+    "nameZh": "荷兰皇家航空",
+    "logoRes": "logo_kl"
+  },
+  {
+    "iata": "KM",
+    "name": "Air Malta",
+    "nameZh": "Air Malta",
+    "logoRes": "logo_km"
+  },
+  {
+    "iata": "KN",
+    "name": "China United Airlines",
+    "nameZh": "中国联合航空",
+    "logoRes": "logo_kn"
+  },
+  {
+    "iata": "KO",
+    "name": "Alaska Central Express",
+    "nameZh": "Alaska Central Express",
+    "logoRes": "logo_ko"
+  },
+  {
+    "iata": "KP",
+    "name": "Dense Airways",
+    "nameZh": "Dense Airways",
+    "logoRes": "logo_kp"
+  },
+  {
+    "iata": "KQ",
+    "name": "Kenya Airways",
+    "nameZh": "肯尼亚航空",
+    "logoRes": "logo_kq"
+  },
+  {
+    "iata": "KR",
+    "name": "Comores Airlines",
+    "nameZh": "Comores Airlines",
+    "logoRes": "logo_kr"
+  },
+  {
+    "iata": "KS",
+    "name": "Peninsula Airways",
+    "nameZh": "Peninsula Airways",
+    "logoRes": "logo_ks"
+  },
+  {
+    "iata": "KT",
+    "name": "VickJet",
+    "nameZh": "VickJet",
+    "logoRes": "logo_kt"
+  },
+  {
+    "iata": "KU",
+    "name": "Kuwait Airways",
+    "nameZh": "科威特航空",
+    "logoRes": "logo_ku"
+  },
+  {
+    "iata": "KV",
+    "name": "Kavminvodyavia",
+    "nameZh": "Kavminvodyavia",
+    "logoRes": "logo_kv"
+  },
+  {
+    "iata": "KW",
+    "name": "Carnival Air Lines",
+    "nameZh": "Carnival Air Lines",
+    "logoRes": "logo_kw"
+  },
+  {
+    "iata": "KX",
+    "name": "Cayman Airways",
+    "nameZh": "Cayman Airways",
+    "logoRes": "logo_kx"
+  },
+  {
+    "iata": "KY",
+    "name": "Kunming Airlines",
+    "nameZh": "昆明航空",
+    "logoRes": "logo_ky"
+  },
+  {
+    "iata": "KZ",
+    "name": "Dense Connection",
+    "nameZh": "Dense Connection",
+    "logoRes": "logo_kz"
+  },
+  {
+    "iata": "LA",
+    "name": "LATAM Airlines",
+    "nameZh": "拉美航空",
+    "logoRes": "logo_la"
+  },
+  {
+    "iata": "LB",
+    "name": "Air Costa",
+    "nameZh": "Air Costa",
+    "logoRes": "logo_lb"
+  },
+  {
+    "iata": "LC",
+    "name": "Varig Log",
+    "nameZh": "Varig Log",
+    "logoRes": "logo_lc"
+  },
+  {
+    "iata": "LE",
+    "name": "Liberty Airways",
+    "nameZh": "Liberty Airways",
+    "logoRes": "logo_le"
+  },
+  {
+    "iata": "LF",
+    "name": "FlyNordic",
+    "nameZh": "FlyNordic",
+    "logoRes": "logo_lf"
+  },
+  {
+    "iata": "LG",
+    "name": "Luxair",
+    "nameZh": "卢森堡航空",
+    "logoRes": "logo_lg"
+  },
+  {
+    "iata": "LH",
+    "name": "Lufthansa",
+    "nameZh": "汉莎航空",
+    "logoRes": "logo_lh"
+  },
+  {
+    "iata": "LI",
+    "name": "Leeward Islands Air Transport",
+    "nameZh": "Leeward Islands Air Transport",
+    "logoRes": "logo_li"
+  },
+  {
+    "iata": "LJ",
+    "name": "Jin Air",
+    "nameZh": "真航空",
+    "logoRes": "logo_lj"
+  },
+  {
+    "iata": "LK",
+    "name": "Air Luxor",
+    "nameZh": "Air Luxor",
+    "logoRes": "logo_lk"
+  },
+  {
+    "iata": "LM",
+    "name": "Linhas A",
+    "nameZh": "Linhas A",
+    "logoRes": "logo_lm"
+  },
+  {
+    "iata": "LN",
+    "name": "Libyan Arab Airlines",
+    "nameZh": "Libyan Arab Airlines",
+    "logoRes": "logo_ln"
+  },
+  {
+    "iata": "LO",
+    "name": "LOT Polish Airlines",
+    "nameZh": "波兰航空",
+    "logoRes": "logo_lo"
+  },
+  {
+    "iata": "LP",
+    "name": "LAN Peru",
+    "nameZh": "LAN Peru",
+    "logoRes": "logo_lp"
+  },
+  {
+    "iata": "LQ",
+    "name": "LCM AIRLINES",
+    "nameZh": "LCM AIRLINES",
+    "logoRes": "logo_lq"
+  },
+  {
+    "iata": "LR",
+    "name": "LACSA",
+    "nameZh": "LACSA",
+    "logoRes": "logo_lr"
+  },
+  {
+    "iata": "LS",
+    "name": "Jet2.com",
+    "nameZh": "Jet2航空",
+    "logoRes": "logo_ls"
+  },
+  {
+    "iata": "LT",
+    "name": "Longjiang Airlines",
+    "nameZh": "龙江航空",
+    "logoRes": "logo_lt"
+  },
+  {
+    "iata": "LU",
+    "name": "LAN Express",
+    "nameZh": "LAN Express",
+    "logoRes": "logo_lu"
+  },
+  {
+    "iata": "LV",
+    "name": "Albanian Airlines",
+    "nameZh": "Albanian Airlines",
+    "logoRes": "logo_lv"
+  },
+  {
+    "iata": "LW",
+    "name": "Pacific Wings",
+    "nameZh": "Pacific Wings",
+    "logoRes": "logo_lw"
+  },
+  {
+    "iata": "LX",
+    "name": "SWISS",
+    "nameZh": "瑞士国际航空",
+    "logoRes": "logo_lx"
+  },
+  {
+    "iata": "LY",
+    "name": "El Al Israel Airlines",
+    "nameZh": "El Al Israel Airlines",
+    "logoRes": "logo_ly"
+  },
+  {
+    "iata": "LZ",
+    "name": "Balkan Bulgarian Airlines",
+    "nameZh": "Balkan Bulgarian Airlines",
+    "logoRes": "logo_lz"
+  },
+  {
+    "iata": "MA",
+    "name": "Malév",
+    "nameZh": "Malév",
+    "logoRes": "logo_ma"
+  },
+  {
+    "iata": "MB",
+    "name": "MNG Airlines",
+    "nameZh": "MNG Airlines",
+    "logoRes": "logo_mb"
+  },
+  {
+    "iata": "MD",
+    "name": "Air Madagascar",
+    "nameZh": "Air Madagascar",
+    "logoRes": "logo_md"
+  },
+  {
+    "iata": "ME",
+    "name": "Middle East Airlines",
+    "nameZh": "中东航空",
+    "logoRes": "logo_me"
+  },
+  {
+    "iata": "MF",
+    "name": "Xiamen Airlines",
+    "nameZh": "厦门航空",
+    "logoRes": "logo_mf"
+  },
+  {
+    "iata": "MH",
+    "name": "Malaysia Airlines",
+    "nameZh": "马来西亚航空",
+    "logoRes": "logo_mh"
+  },
+  {
+    "iata": "MI",
+    "name": "SilkAir",
+    "nameZh": "胜安航空",
+    "logoRes": "logo_mi"
+  },
+  {
+    "iata": "MJ",
+    "name": "L",
+    "nameZh": "L",
+    "logoRes": "logo_mj"
+  },
+  {
+    "iata": "MK",
+    "name": "Air Mauritius",
+    "nameZh": "毛里求斯航空",
+    "logoRes": "logo_mk"
+  },
+  {
+    "iata": "ML",
+    "name": "Maldivo Airlines",
+    "nameZh": "Maldivo Airlines",
+    "logoRes": "logo_ml"
+  },
+  {
+    "iata": "MM",
+    "name": "Peach Aviation",
+    "nameZh": "乐桃航空",
+    "logoRes": "logo_mm"
+  },
+  {
+    "iata": "MN",
+    "name": "Comair",
+    "nameZh": "Comair",
+    "logoRes": "logo_mn"
+  },
+  {
+    "iata": "MO",
+    "name": "Abu Dhabi Amiri Flight",
+    "nameZh": "Abu Dhabi Amiri Flight",
+    "logoRes": "logo_mo"
+  },
+  {
+    "iata": "MP",
+    "name": "Martinair",
+    "nameZh": "Martinair",
+    "logoRes": "logo_mp"
+  },
+  {
+    "iata": "MQ",
+    "name": "American Eagle Airlines",
+    "nameZh": "American Eagle Airlines",
+    "logoRes": "logo_mq"
+  },
+  {
+    "iata": "MR",
+    "name": "Homer Air",
+    "nameZh": "Homer Air",
+    "logoRes": "logo_mr"
+  },
+  {
+    "iata": "MS",
+    "name": "EgyptAir",
+    "nameZh": "埃及航空",
+    "logoRes": "logo_ms"
+  },
+  {
+    "iata": "MT",
+    "name": "Thomas Cook Airlines",
+    "nameZh": "Thomas Cook Airlines",
+    "logoRes": "logo_mt"
+  },
+  {
+    "iata": "MU",
+    "name": "China Eastern Airlines",
+    "nameZh": "中国东方航空",
+    "logoRes": "logo_mu"
+  },
+  {
+    "iata": "MW",
+    "name": "Maya Island Air",
+    "nameZh": "Maya Island Air",
+    "logoRes": "logo_mw"
+  },
+  {
+    "iata": "MX",
+    "name": "Mexicana de Aviaci",
+    "nameZh": "Mexicana de Aviaci",
+    "logoRes": "logo_mx"
+  },
+  {
+    "iata": "MY",
+    "name": "Midwest Airlines (Egypt)",
+    "nameZh": "Midwest Airlines (Egypt)",
+    "logoRes": "logo_my"
+  },
+  {
+    "iata": "MZ",
+    "name": "Merpati Nusantara Airlines",
+    "nameZh": "Merpati Nusantara Airlines",
+    "logoRes": "logo_mz"
+  },
+  {
+    "iata": "N4",
+    "name": "Nordwind Airlines",
+    "nameZh": "北风航空",
+    "logoRes": "logo_n4"
+  },
+  {
+    "iata": "NA",
+    "name": "Al-Naser Airlines",
+    "nameZh": "Al-Naser Airlines",
+    "logoRes": "logo_na"
+  },
+  {
+    "iata": "NB",
+    "name": "Sterling Airlines",
+    "nameZh": "Sterling Airlines",
+    "logoRes": "logo_nb"
+  },
+  {
+    "iata": "NC",
+    "name": "National Jet Systems",
+    "nameZh": "National Jet Systems",
+    "logoRes": "logo_nc"
+  },
+  {
+    "iata": "NE",
+    "name": "SkyEurope",
+    "nameZh": "SkyEurope",
+    "logoRes": "logo_ne"
+  },
+  {
+    "iata": "NF",
+    "name": "Air Vanuatu",
+    "nameZh": "瓦努阿图航空",
+    "logoRes": "logo_nf"
+  },
+  {
+    "iata": "NG",
+    "name": "Lauda Air",
+    "nameZh": "Lauda Air",
+    "logoRes": "logo_ng"
+  },
+  {
+    "iata": "NH",
+    "name": "All Nippon Airways",
+    "nameZh": "全日空",
+    "logoRes": "logo_nh"
+  },
+  {
+    "iata": "NI",
+    "name": "Portugalia",
+    "nameZh": "Portugalia",
+    "logoRes": "logo_ni"
+  },
+  {
+    "iata": "NJ",
+    "name": "Nordic Global Airlines",
+    "nameZh": "Nordic Global Airlines",
+    "logoRes": "logo_nj"
+  },
+  {
+    "iata": "NK",
+    "name": "Spirit Airlines",
+    "nameZh": "精神航空",
+    "logoRes": "logo_nk"
+  },
+  {
+    "iata": "NL",
+    "name": "Shaheen Air International",
+    "nameZh": "Shaheen Air International",
+    "logoRes": "logo_nl"
+  },
+  {
+    "iata": "NM",
+    "name": "Air Madrid",
+    "nameZh": "Air Madrid",
+    "logoRes": "logo_nm"
+  },
+  {
+    "iata": "NN",
+    "name": "VIM Airlines",
+    "nameZh": "VIM Airlines",
+    "logoRes": "logo_nn"
+  },
+  {
+    "iata": "NP",
+    "name": "Nile Air",
+    "nameZh": "尼罗航空",
+    "logoRes": "logo_np"
+  },
+  {
+    "iata": "NQ",
+    "name": "Air Japan",
+    "nameZh": "Air Japan",
+    "logoRes": "logo_nq"
+  },
+  {
+    "iata": "NR",
+    "name": "Jettor Airlines",
+    "nameZh": "Jettor Airlines",
+    "logoRes": "logo_nr"
+  },
+  {
+    "iata": "NS",
+    "name": "Hebei Airlines",
+    "nameZh": "河北航空",
+    "logoRes": "logo_ns"
+  },
+  {
+    "iata": "NT",
+    "name": "Binter Canarias",
+    "nameZh": "Binter Canarias",
+    "logoRes": "logo_nt"
+  },
+  {
+    "iata": "NU",
+    "name": "Japan Transocean Air",
+    "nameZh": "Japan Transocean Air",
+    "logoRes": "logo_nu"
+  },
+  {
+    "iata": "NW",
+    "name": "Northwest Airlines",
+    "nameZh": "Northwest Airlines",
+    "logoRes": "logo_nw"
+  },
+  {
+    "iata": "NX",
+    "name": "Air Macau",
+    "nameZh": "澳门航空",
+    "logoRes": "logo_nx"
+  },
+  {
+    "iata": "NY",
+    "name": "Air Iceland",
+    "nameZh": "Air Iceland",
+    "logoRes": "logo_ny"
+  },
+  {
+    "iata": "NZ",
+    "name": "Air New Zealand",
+    "nameZh": "新西兰航空",
+    "logoRes": "logo_nz"
+  },
+  {
+    "iata": "O6",
+    "name": "Avianca Brasil",
+    "nameZh": "巴西哥伦比亚航空",
+    "logoRes": "logo_o6"
+  },
+  {
+    "iata": "OA",
+    "name": "Aegean Airlines",
+    "nameZh": "爱琴海航空",
+    "logoRes": "logo_oa"
+  },
+  {
+    "iata": "OB",
+    "name": "Astrakhan Airlines",
+    "nameZh": "Astrakhan Airlines",
+    "logoRes": "logo_ob"
+  },
+  {
+    "iata": "OC",
+    "name": "Catovair",
+    "nameZh": "Catovair",
+    "logoRes": "logo_oc"
+  },
+  {
+    "iata": "OD",
+    "name": "Malindo Air",
+    "nameZh": "马印航空",
+    "logoRes": "logo_od"
+  },
+  {
+    "iata": "OF",
+    "name": "Air Finland",
+    "nameZh": "Air Finland",
+    "logoRes": "logo_of"
+  },
+  {
+    "iata": "OG",
+    "name": "AirOnix",
+    "nameZh": "AirOnix",
+    "logoRes": "logo_og"
+  },
+  {
+    "iata": "OH",
+    "name": "Comair",
+    "nameZh": "Comair",
+    "logoRes": "logo_oh"
+  },
+  {
+    "iata": "OI",
+    "name": "Orchid Airlines",
+    "nameZh": "Orchid Airlines",
+    "logoRes": "logo_oi"
+  },
+  {
+    "iata": "OJ",
+    "name": "Overland Airways",
+    "nameZh": "Overland Airways",
+    "logoRes": "logo_oj"
+  },
+  {
+    "iata": "OK",
+    "name": "Czech Airlines",
+    "nameZh": "捷克航空",
+    "logoRes": "logo_ok"
+  },
+  {
+    "iata": "OL",
+    "name": "Ostfriesische Lufttransport",
+    "nameZh": "Ostfriesische Lufttransport",
+    "logoRes": "logo_ol"
+  },
+  {
+    "iata": "OM",
+    "name": "MIAT Mongolian Airlines",
+    "nameZh": "MIAT Mongolian Airlines",
+    "logoRes": "logo_om"
+  },
+  {
+    "iata": "ON",
+    "name": "Nauru Air Corporation",
+    "nameZh": "Nauru Air Corporation",
+    "logoRes": "logo_on"
+  },
+  {
+    "iata": "OO",
+    "name": "SkyWest",
+    "nameZh": "SkyWest",
+    "logoRes": "logo_oo"
+  },
+  {
+    "iata": "OP",
+    "name": "Air Pegasus",
+    "nameZh": "Air Pegasus",
+    "logoRes": "logo_op"
+  },
+  {
+    "iata": "OQ",
+    "name": "Chongqing Airlines",
+    "nameZh": "重庆航空",
+    "logoRes": "logo_oq"
+  },
+  {
+    "iata": "OR",
+    "name": "Arkefly",
+    "nameZh": "Arkefly",
+    "logoRes": "logo_or"
+  },
+  {
+    "iata": "OS",
+    "name": "Austrian Airlines",
+    "nameZh": "奥地利航空",
+    "logoRes": "logo_os"
+  },
+  {
+    "iata": "OT",
+    "name": "Aeropelican Air Services",
+    "nameZh": "Aeropelican Air Services",
+    "logoRes": "logo_ot"
+  },
+  {
+    "iata": "OU",
+    "name": "Croatia Airlines",
+    "nameZh": "克罗地亚航空",
+    "logoRes": "logo_ou"
+  },
+  {
+    "iata": "OV",
+    "name": "Estonian Air",
+    "nameZh": "Estonian Air",
+    "logoRes": "logo_ov"
+  },
+  {
+    "iata": "OX",
+    "name": "Orient Thai Airlines",
+    "nameZh": "Orient Thai Airlines",
+    "logoRes": "logo_ox"
+  },
+  {
+    "iata": "OY",
+    "name": "Omni Air International",
+    "nameZh": "Omni Air International",
+    "logoRes": "logo_oy"
+  },
+  {
+    "iata": "OZ",
+    "name": "Asiana Airlines",
+    "nameZh": "韩亚航空",
+    "logoRes": "logo_oz"
+  },
+  {
+    "iata": "P5",
+    "name": "Wingo",
+    "nameZh": "温格航空",
+    "logoRes": "logo_p5"
+  },
+  {
+    "iata": "P8",
+    "name": "Air Peace",
+    "nameZh": "和平航空",
+    "logoRes": "logo_p8"
+  },
+  {
+    "iata": "PA",
+    "name": "Parmiss Airlines (IPV)",
+    "nameZh": "Parmiss Airlines (IPV)",
+    "logoRes": "logo_pa"
+  },
+  {
+    "iata": "PC",
+    "name": "Pegasus Airlines",
+    "nameZh": "飞马航空",
+    "logoRes": "logo_pc"
+  },
+  {
+    "iata": "PD",
+    "name": "Porter Airlines",
+    "nameZh": "波特航空",
+    "logoRes": "logo_pd"
+  },
+  {
+    "iata": "PE",
+    "name": "Air Europe",
+    "nameZh": "Air Europe",
+    "logoRes": "logo_pe"
+  },
+  {
+    "iata": "PF",
+    "name": "Primera Air",
+    "nameZh": "Primera Air",
+    "logoRes": "logo_pf"
+  },
+  {
+    "iata": "PG",
+    "name": "Bangkok Airways",
+    "nameZh": "曼谷航空",
+    "logoRes": "logo_pg"
+  },
+  {
+    "iata": "PH",
+    "name": "Polynesian Airlines",
+    "nameZh": "Polynesian Airlines",
+    "logoRes": "logo_ph"
+  },
+  {
+    "iata": "PI",
+    "name": "Piedmont Airlines (1948-1989)",
+    "nameZh": "Piedmont Airlines (1948-1989)",
+    "logoRes": "logo_pi"
+  },
+  {
+    "iata": "PJ",
+    "name": "Air Saint Pierre",
+    "nameZh": "Air Saint Pierre",
+    "logoRes": "logo_pj"
+  },
+  {
+    "iata": "PK",
+    "name": "Pakistan International Airlines",
+    "nameZh": "Pakistan International Airlines",
+    "logoRes": "logo_pk"
+  },
+  {
+    "iata": "PL",
+    "name": "Aeroper",
+    "nameZh": "Aeroper",
+    "logoRes": "logo_pl"
+  },
+  {
+    "iata": "PM",
+    "name": "Tropic Air",
+    "nameZh": "Tropic Air",
+    "logoRes": "logo_pm"
+  },
+  {
+    "iata": "PN",
+    "name": "West Air",
+    "nameZh": "西部航空",
+    "logoRes": "logo_pn"
+  },
+  {
+    "iata": "PO",
+    "name": "Polar Air Cargo",
+    "nameZh": "博立航空",
+    "logoRes": "logo_po"
+  },
+  {
+    "iata": "PP",
+    "name": "Air Indus",
+    "nameZh": "Air Indus",
+    "logoRes": "logo_pp"
+  },
+  {
+    "iata": "PQ",
+    "name": "LSM Airlines",
+    "nameZh": "LSM Airlines",
+    "logoRes": "logo_pq"
+  },
+  {
+    "iata": "PR",
+    "name": "Philippine Airlines",
+    "nameZh": "菲律宾航空",
+    "logoRes": "logo_pr"
+  },
+  {
+    "iata": "PS",
+    "name": "Ukraine International Airlines",
+    "nameZh": "乌克兰国际航空",
+    "logoRes": "logo_ps"
+  },
+  {
+    "iata": "PT",
+    "name": "Red Jet Andes",
+    "nameZh": "Red Jet Andes",
+    "logoRes": "logo_pt"
+  },
+  {
+    "iata": "PU",
+    "name": "PLUNA",
+    "nameZh": "PLUNA",
+    "logoRes": "logo_pu"
+  },
+  {
+    "iata": "PV",
+    "name": "PAN Air",
+    "nameZh": "PAN Air",
+    "logoRes": "logo_pv"
+  },
+  {
+    "iata": "PW",
+    "name": "Precision Air",
+    "nameZh": "Precision Air",
+    "logoRes": "logo_pw"
+  },
+  {
+    "iata": "PX",
+    "name": "Air Niugini",
+    "nameZh": "新几内亚航空",
+    "logoRes": "logo_px"
+  },
+  {
+    "iata": "PY",
+    "name": "Surinam Airways",
+    "nameZh": "Surinam Airways",
+    "logoRes": "logo_py"
+  },
+  {
+    "iata": "PZ",
+    "name": "TAM Mercosur",
+    "nameZh": "TAM Mercosur",
+    "logoRes": "logo_pz"
+  },
+  {
+    "iata": "Q2",
+    "name": "Maldivian",
+    "nameZh": "马尔代夫航空",
+    "logoRes": "logo_q2"
+  },
+  {
+    "iata": "QA",
+    "name": "Click (Mexicana)",
+    "nameZh": "Click (Mexicana)",
+    "logoRes": "logo_qa"
+  },
+  {
+    "iata": "QB",
+    "name": "Georgian National Airlines",
+    "nameZh": "Georgian National Airlines",
+    "logoRes": "logo_qb"
+  },
+  {
+    "iata": "QC",
+    "name": "Camair-co",
+    "nameZh": "Camair-co",
+    "logoRes": "logo_qc"
+  },
+  {
+    "iata": "QD",
+    "name": "Dobrolet",
+    "nameZh": "Dobrolet",
+    "logoRes": "logo_qd"
+  },
+  {
+    "iata": "QF",
+    "name": "Qantas",
+    "nameZh": "澳洲航空",
+    "logoRes": "logo_qf"
+  },
+  {
+    "iata": "QG",
+    "name": "Citilink",
+    "nameZh": "连城航空",
+    "logoRes": "logo_qg"
+  },
+  {
+    "iata": "QH",
+    "name": "Air Florida",
+    "nameZh": "Air Florida",
+    "logoRes": "logo_qh"
+  },
+  {
+    "iata": "QI",
+    "name": "Cimber Air",
+    "nameZh": "Cimber Air",
+    "logoRes": "logo_qi"
+  },
+  {
+    "iata": "QJ",
+    "name": "Jet Airways",
+    "nameZh": "Jet Airways",
+    "logoRes": "logo_qj"
+  },
+  {
+    "iata": "QK",
+    "name": "Air Canada Jazz",
+    "nameZh": "加拿大爵士航空",
+    "logoRes": "logo_qk"
+  },
+  {
+    "iata": "QL",
+    "name": "Aero Lanka",
+    "nameZh": "Aero Lanka",
+    "logoRes": "logo_ql"
+  },
+  {
+    "iata": "QM",
+    "name": "Air Malawi",
+    "nameZh": "Air Malawi",
+    "logoRes": "logo_qm"
+  },
+  {
+    "iata": "QO",
+    "name": "Origin Pacific Airways",
+    "nameZh": "Origin Pacific Airways",
+    "logoRes": "logo_qo"
+  },
+  {
+    "iata": "QP",
+    "name": "Akasa Air",
+    "nameZh": "阿卡萨航空",
+    "logoRes": "logo_qp"
+  },
+  {
+    "iata": "QQ",
+    "name": "Alliance Airlines",
+    "nameZh": "Alliance Airlines",
+    "logoRes": "logo_qq"
+  },
+  {
+    "iata": "QR",
+    "name": "Qatar Airways",
+    "nameZh": "卡塔尔航空",
+    "logoRes": "logo_qr"
+  },
+  {
+    "iata": "QS",
+    "name": "Travel Service",
+    "nameZh": "Travel Service",
+    "logoRes": "logo_qs"
+  },
+  {
+    "iata": "QT",
+    "name": "TAMPA",
+    "nameZh": "TAMPA",
+    "logoRes": "logo_qt"
+  },
+  {
+    "iata": "QU",
+    "name": "East African",
+    "nameZh": "East African",
+    "logoRes": "logo_qu"
+  },
+  {
+    "iata": "QV",
+    "name": "Lao Airlines",
+    "nameZh": "老挝航空",
+    "logoRes": "logo_qv"
+  },
+  {
+    "iata": "QW",
+    "name": "Qingdao Airlines",
+    "nameZh": "青岛航空",
+    "logoRes": "logo_qw"
+  },
+  {
+    "iata": "QX",
+    "name": "Horizon Air",
+    "nameZh": "Horizon Air",
+    "logoRes": "logo_qx"
+  },
+  {
+    "iata": "QY",
+    "name": "Red Jet Canada",
+    "nameZh": "Red Jet Canada",
+    "logoRes": "logo_qy"
+  },
+  {
+    "iata": "QZ",
+    "name": "Indonesia AirAsia",
+    "nameZh": "印尼亚洲航空",
+    "logoRes": "logo_qz"
+  },
+  {
+    "iata": "RA",
+    "name": "Nepal Airlines",
+    "nameZh": "尼泊尔航空",
+    "logoRes": "logo_ra"
+  },
+  {
+    "iata": "RB",
+    "name": "Syrian Arab Airlines",
+    "nameZh": "Syrian Arab Airlines",
+    "logoRes": "logo_rb"
+  },
+  {
+    "iata": "RC",
+    "name": "Atlantic Airways",
+    "nameZh": "Atlantic Airways",
+    "logoRes": "logo_rc"
+  },
+  {
+    "iata": "RD",
+    "name": "Ryan International Airlines",
+    "nameZh": "Ryan International Airlines",
+    "logoRes": "logo_rd"
+  },
+  {
+    "iata": "RE",
+    "name": "Aer Arann",
+    "nameZh": "Aer Arann",
+    "logoRes": "logo_re"
+  },
+  {
+    "iata": "RF",
+    "name": "Florida West International Airways",
+    "nameZh": "Florida West International Airways",
+    "logoRes": "logo_rf"
+  },
+  {
+    "iata": "RG",
+    "name": "VRG Linhas Aereas",
+    "nameZh": "VRG Linhas Aereas",
+    "logoRes": "logo_rg"
+  },
+  {
+    "iata": "RH",
+    "name": "Republic Express Airlines",
+    "nameZh": "Republic Express Airlines",
+    "logoRes": "logo_rh"
+  },
+  {
+    "iata": "RI",
+    "name": "Mandala Airlines",
+    "nameZh": "Mandala Airlines",
+    "logoRes": "logo_ri"
+  },
+  {
+    "iata": "RJ",
+    "name": "Royal Jordanian",
+    "nameZh": "皇家约旦航空",
+    "logoRes": "logo_rj"
+  },
+  {
+    "iata": "RK",
+    "name": "Air Afrique",
+    "nameZh": "Air Afrique",
+    "logoRes": "logo_rk"
+  },
+  {
+    "iata": "RL",
+    "name": "Royal Falcon",
+    "nameZh": "Royal Falcon",
+    "logoRes": "logo_rl"
+  },
+  {
+    "iata": "RM",
+    "name": "Rainbow Air US",
+    "nameZh": "Rainbow Air US",
+    "logoRes": "logo_rm"
+  },
+  {
+    "iata": "RN",
+    "name": "Rainbow Air (RAI)",
+    "nameZh": "Rainbow Air (RAI)",
+    "logoRes": "logo_rn"
+  },
+  {
+    "iata": "RO",
+    "name": "TAROM",
+    "nameZh": "罗马尼亚航空",
+    "logoRes": "logo_ro"
+  },
+  {
+    "iata": "RP",
+    "name": "Chautauqua Airlines",
+    "nameZh": "Chautauqua Airlines",
+    "logoRes": "logo_rp"
+  },
+  {
+    "iata": "RQ",
+    "name": "Kam Air",
+    "nameZh": "Kam Air",
+    "logoRes": "logo_rq"
+  },
+  {
+    "iata": "RR",
+    "name": "REXAIR VIRTUEL",
+    "nameZh": "REXAIR VIRTUEL",
+    "logoRes": "logo_rr"
+  },
+  {
+    "iata": "RS",
+    "name": "Air Seoul",
+    "nameZh": "首尔航空",
+    "logoRes": "logo_rs"
+  },
+  {
+    "iata": "RT",
+    "name": "Real Tonga",
+    "nameZh": "Real Tonga",
+    "logoRes": "logo_rt"
+  },
+  {
+    "iata": "RU",
+    "name": "Rainbow Air Euro",
+    "nameZh": "Rainbow Air Euro",
+    "logoRes": "logo_ru"
+  },
+  {
+    "iata": "RV",
+    "name": "Caspian Airlines",
+    "nameZh": "Caspian Airlines",
+    "logoRes": "logo_rv"
+  },
+  {
+    "iata": "RW",
+    "name": "Republic Airlines",
+    "nameZh": "Republic Airlines",
+    "logoRes": "logo_rw"
+  },
+  {
+    "iata": "RX",
+    "name": "Rainbow Air Polynesia",
+    "nameZh": "Rainbow Air Polynesia",
+    "logoRes": "logo_rx"
+  },
+  {
+    "iata": "RY",
+    "name": "Jiangxi Air",
+    "nameZh": "江西航空",
+    "logoRes": "logo_ry"
+  },
+  {
+    "iata": "RZ",
+    "name": "Euro Exec Express",
+    "nameZh": "Euro Exec Express",
+    "logoRes": "logo_rz"
+  },
+  {
+    "iata": "S7",
+    "name": "S7 Airlines",
+    "nameZh": "西伯利亚航空",
+    "logoRes": "logo_s7"
+  },
+  {
+    "iata": "SA",
+    "name": "South African Airways",
+    "nameZh": "南非航空",
+    "logoRes": "logo_sa"
+  },
+  {
+    "iata": "SB",
+    "name": "Aircalin",
+    "nameZh": "喀里多尼亚航空",
+    "logoRes": "logo_sb"
+  },
+  {
+    "iata": "SC",
+    "name": "Shandong Airlines",
+    "nameZh": "山东航空",
+    "logoRes": "logo_sc"
+  },
+  {
+    "iata": "SD",
+    "name": "Sudan Airways",
+    "nameZh": "Sudan Airways",
+    "logoRes": "logo_sd"
+  },
+  {
+    "iata": "SE",
+    "name": "XL Airways France",
+    "nameZh": "XL Airways France",
+    "logoRes": "logo_se"
+  },
+  {
+    "iata": "SF",
+    "name": "Tassili Airlines",
+    "nameZh": "塔西里航空",
+    "logoRes": "logo_sf"
+  },
+  {
+    "iata": "SG",
+    "name": "SpiceJet",
+    "nameZh": "香料航空",
+    "logoRes": "logo_sg"
+  },
+  {
+    "iata": "SH",
+    "name": "Sharp Airlines",
+    "nameZh": "Sharp Airlines",
+    "logoRes": "logo_sh"
+  },
+  {
+    "iata": "SI",
+    "name": "Skynet Airlines",
+    "nameZh": "Skynet Airlines",
+    "logoRes": "logo_si"
+  },
+  {
+    "iata": "SJ",
+    "name": "Sriwijaya Air",
+    "nameZh": "Sriwijaya Air",
+    "logoRes": "logo_sj"
+  },
+  {
+    "iata": "SK",
+    "name": "SAS Scandinavian Airlines",
+    "nameZh": "北欧航空",
+    "logoRes": "logo_sk"
+  },
+  {
+    "iata": "SL",
+    "name": "Thai Lion Air",
+    "nameZh": "泰国狮航",
+    "logoRes": "logo_sl"
+  },
+  {
+    "iata": "SM",
+    "name": "Spirit of Manila Airlines",
+    "nameZh": "Spirit of Manila Airlines",
+    "logoRes": "logo_sm"
+  },
+  {
+    "iata": "SN",
+    "name": "Brussels Airlines",
+    "nameZh": "布鲁塞尔航空",
+    "logoRes": "logo_sn"
+  },
+  {
+    "iata": "SO",
+    "name": "Salsa d'Haiti",
+    "nameZh": "Salsa d'Haiti",
+    "logoRes": "logo_so"
+  },
+  {
+    "iata": "SP",
+    "name": "SATA Air Acores",
+    "nameZh": "SATA Air Acores",
+    "logoRes": "logo_sp"
+  },
+  {
+    "iata": "SQ",
+    "name": "Singapore Airlines",
+    "nameZh": "新加坡航空",
+    "logoRes": "logo_sq"
+  },
+  {
+    "iata": "SR",
+    "name": "Swissair",
+    "nameZh": "Swissair",
+    "logoRes": "logo_sr"
+  },
+  {
+    "iata": "SS",
+    "name": "Corsairfly",
+    "nameZh": "Corsairfly",
+    "logoRes": "logo_ss"
+  },
+  {
+    "iata": "ST",
+    "name": "Germania",
+    "nameZh": "Germania",
+    "logoRes": "logo_st"
+  },
+  {
+    "iata": "SU",
+    "name": "Aeroflot",
+    "nameZh": "俄罗斯航空",
+    "logoRes": "logo_su"
+  },
+  {
+    "iata": "SV",
+    "name": "Saudia",
+    "nameZh": "沙特阿拉伯航空",
+    "logoRes": "logo_sv"
+  },
+  {
+    "iata": "SW",
+    "name": "Air Namibia",
+    "nameZh": "Air Namibia",
+    "logoRes": "logo_sw"
+  },
+  {
+    "iata": "SX",
+    "name": "SkyWork Airlines",
+    "nameZh": "SkyWork Airlines",
+    "logoRes": "logo_sx"
+  },
+  {
+    "iata": "SY",
+    "name": "Sun Country Airlines",
+    "nameZh": "太阳城航空",
+    "logoRes": "logo_sy"
+  },
+  {
+    "iata": "SZ",
+    "name": "Salzburg arrows",
+    "nameZh": "Salzburg arrows",
+    "logoRes": "logo_sz"
+  },
+  {
+    "iata": "TA",
+    "name": "Grupo TACA",
+    "nameZh": "Grupo TACA",
+    "logoRes": "logo_ta"
+  },
+  {
+    "iata": "TB",
+    "name": "TrasBrasil",
+    "nameZh": "TrasBrasil",
+    "logoRes": "logo_tb"
+  },
+  {
+    "iata": "TC",
+    "name": "Air Tanzania",
+    "nameZh": "Air Tanzania",
+    "logoRes": "logo_tc"
+  },
+  {
+    "iata": "TD",
+    "name": "Atlantis European Airways",
+    "nameZh": "Atlantis European Airways",
+    "logoRes": "logo_td"
+  },
+  {
+    "iata": "TE",
+    "name": "FlyLal",
+    "nameZh": "FlyLal",
+    "logoRes": "logo_te"
+  },
+  {
+    "iata": "TF",
+    "name": "Malmö Aviation",
+    "nameZh": "Malmö Aviation",
+    "logoRes": "logo_tf"
+  },
+  {
+    "iata": "TG",
+    "name": "Thai Airways",
+    "nameZh": "泰国国际航空",
+    "logoRes": "logo_tg"
+  },
+  {
+    "iata": "TH",
+    "name": "TransBrasil Airlines",
+    "nameZh": "TransBrasil Airlines",
+    "logoRes": "logo_th"
+  },
+  {
+    "iata": "TI",
+    "name": "TransHolding",
+    "nameZh": "TransHolding",
+    "logoRes": "logo_ti"
+  },
+  {
+    "iata": "TJ",
+    "name": "T.J. Air",
+    "nameZh": "T.J. Air",
+    "logoRes": "logo_tj"
+  },
+  {
+    "iata": "TK",
+    "name": "Turkish Airlines",
+    "nameZh": "土耳其航空",
+    "logoRes": "logo_tk"
+  },
+  {
+    "iata": "TL",
+    "name": "Airnorth",
+    "nameZh": "Airnorth",
+    "logoRes": "logo_tl"
+  },
+  {
+    "iata": "TM",
+    "name": "Air Mozambique",
+    "nameZh": "Air Mozambique",
+    "logoRes": "logo_tm"
+  },
+  {
+    "iata": "TN",
+    "name": "Air Tahiti Nui",
+    "nameZh": "Air Tahiti Nui",
+    "logoRes": "logo_tn"
+  },
+  {
+    "iata": "TO",
+    "name": "Transavia France",
+    "nameZh": "Transavia France",
+    "logoRes": "logo_to"
+  },
+  {
+    "iata": "TP",
+    "name": "TAP Air Portugal",
+    "nameZh": "葡萄牙航空",
+    "logoRes": "logo_tp"
+  },
+  {
+    "iata": "TQ",
+    "name": "Texas Wings",
+    "nameZh": "Texas Wings",
+    "logoRes": "logo_tq"
+  },
+  {
+    "iata": "TR",
+    "name": "Scoot",
+    "nameZh": "酷航",
+    "logoRes": "logo_tr"
+  },
+  {
+    "iata": "TS",
+    "name": "Air Transat",
+    "nameZh": "越洋航空",
+    "logoRes": "logo_ts"
+  },
+  {
+    "iata": "TT",
+    "name": "Tiger Airways Australia",
+    "nameZh": "Tiger Airways Australia",
+    "logoRes": "logo_tt"
+  },
+  {
+    "iata": "TU",
+    "name": "Tunisair",
+    "nameZh": "突尼斯航空",
+    "logoRes": "logo_tu"
+  },
+  {
+    "iata": "TV",
+    "name": "Tibet Airlines",
+    "nameZh": "西藏航空",
+    "logoRes": "logo_tv"
+  },
+  {
+    "iata": "TW",
+    "name": "T'way Air",
+    "nameZh": "德威航空",
+    "logoRes": "logo_tw"
+  },
+  {
+    "iata": "TX",
+    "name": "Air Caraïbes",
+    "nameZh": "Air Caraïbes",
+    "logoRes": "logo_tx"
+  },
+  {
+    "iata": "TY",
+    "name": "Iberworld",
+    "nameZh": "Iberworld",
+    "logoRes": "logo_ty"
+  },
+  {
+    "iata": "TZ",
+    "name": "Scoot",
+    "nameZh": "Scoot",
+    "logoRes": "logo_tz"
+  },
+  {
+    "iata": "U2",
+    "name": "EasyJet",
+    "nameZh": "易捷航空",
+    "logoRes": "logo_u2"
+  },
+  {
+    "iata": "U6",
+    "name": "Ural Airlines",
+    "nameZh": "乌拉尔航空",
+    "logoRes": "logo_u6"
+  },
+  {
+    "iata": "UA",
+    "name": "United Airlines",
+    "nameZh": "联合航空",
+    "logoRes": "logo_ua"
+  },
+  {
+    "iata": "UB",
+    "name": "Myanmar National Airlines",
+    "nameZh": "缅甸国家航空",
+    "logoRes": "logo_ub"
+  },
+  {
+    "iata": "UD",
+    "name": "Hex'Air",
+    "nameZh": "Hex'Air",
+    "logoRes": "logo_ud"
+  },
+  {
+    "iata": "UE",
+    "name": "Nasair",
+    "nameZh": "Nasair",
+    "logoRes": "logo_ue"
+  },
+  {
+    "iata": "UF",
+    "name": "UM Airlines",
+    "nameZh": "UM Airlines",
+    "logoRes": "logo_uf"
+  },
+  {
+    "iata": "UG",
+    "name": "Tuninter",
+    "nameZh": "Tuninter",
+    "logoRes": "logo_ug"
+  },
+  {
+    "iata": "UH",
+    "name": "US Helicopter Corporation",
+    "nameZh": "US Helicopter Corporation",
+    "logoRes": "logo_uh"
+  },
+  {
+    "iata": "UI",
+    "name": "Eurocypria Airlines",
+    "nameZh": "Eurocypria Airlines",
+    "logoRes": "logo_ui"
+  },
+  {
+    "iata": "UJ",
+    "name": "AlMasria Universal Airlines",
+    "nameZh": "AlMasria Universal Airlines",
+    "logoRes": "logo_uj"
+  },
+  {
+    "iata": "UK",
+    "name": "Vistara",
+    "nameZh": "维斯塔拉航空",
+    "logoRes": "logo_uk"
+  },
+  {
+    "iata": "UL",
+    "name": "SriLankan Airlines",
+    "nameZh": "斯里兰卡航空",
+    "logoRes": "logo_ul"
+  },
+  {
+    "iata": "UM",
+    "name": "Air Zimbabwe",
+    "nameZh": "Air Zimbabwe",
+    "logoRes": "logo_um"
+  },
+  {
+    "iata": "UN",
+    "name": "Transaero Airlines",
+    "nameZh": "Transaero Airlines",
+    "logoRes": "logo_un"
+  },
+  {
+    "iata": "UO",
+    "name": "HK Express",
+    "nameZh": "香港快运",
+    "logoRes": "logo_uo"
+  },
+  {
+    "iata": "UP",
+    "name": "Bahamasair",
+    "nameZh": "Bahamasair",
+    "logoRes": "logo_up"
+  },
+  {
+    "iata": "UQ",
+    "name": "Urumqi Air",
+    "nameZh": "乌鲁木齐航空",
+    "logoRes": "logo_uq"
+  },
+  {
+    "iata": "UR",
+    "name": "UTair-Express",
+    "nameZh": "UTair-Express",
+    "logoRes": "logo_ur"
+  },
+  {
+    "iata": "US",
+    "name": "US Airways",
+    "nameZh": "US Airways",
+    "logoRes": "logo_us"
+  },
+  {
+    "iata": "UT",
+    "name": "UTair",
+    "nameZh": "优梯航空",
+    "logoRes": "logo_ut"
+  },
+  {
+    "iata": "UU",
+    "name": "Air Austral",
+    "nameZh": "Air Austral",
+    "logoRes": "logo_uu"
+  },
+  {
+    "iata": "UW",
+    "name": "UVT Aero",
+    "nameZh": "UVT Aero",
+    "logoRes": "logo_uw"
+  },
+  {
+    "iata": "UX",
+    "name": "Air Europa",
+    "nameZh": "欧罗巴航空",
+    "logoRes": "logo_ux"
+  },
+  {
+    "iata": "UZ",
+    "name": "El-Buraq Air Transport",
+    "nameZh": "El-Buraq Air Transport",
+    "logoRes": "logo_uz"
+  },
+  {
+    "iata": "VA",
+    "name": "Virgin Australia",
+    "nameZh": "维珍澳洲航空",
+    "logoRes": "logo_va"
+  },
+  {
+    "iata": "VB",
+    "name": "Viva Aerobus",
+    "nameZh": "愉快空中巴士",
+    "logoRes": "logo_vb"
+  },
+  {
+    "iata": "VC",
+    "name": "Strategic Airlines",
+    "nameZh": "Strategic Airlines",
+    "logoRes": "logo_vc"
+  },
+  {
+    "iata": "VD",
+    "name": "Air Libert",
+    "nameZh": "Air Libert",
+    "logoRes": "logo_vd"
+  },
+  {
+    "iata": "VE",
+    "name": "Volare Airlines",
+    "nameZh": "Volare Airlines",
+    "logoRes": "logo_ve"
+  },
+  {
+    "iata": "VF",
+    "name": "Valuair",
+    "nameZh": "Valuair",
+    "logoRes": "logo_vf"
+  },
+  {
+    "iata": "VG",
+    "name": "VLM Airlines",
+    "nameZh": "VLM Airlines",
+    "logoRes": "logo_vg"
+  },
+  {
+    "iata": "VH",
+    "name": "Virgin Pacific",
+    "nameZh": "Virgin Pacific",
+    "logoRes": "logo_vh"
+  },
+  {
+    "iata": "VI",
+    "name": "Volga-Dnepr Airlines",
+    "nameZh": "Volga-Dnepr Airlines",
+    "logoRes": "logo_vi"
+  },
+  {
+    "iata": "VJ",
+    "name": "VietJet Air",
+    "nameZh": "越捷航空",
+    "logoRes": "logo_vj"
+  },
+  {
+    "iata": "VK",
+    "name": "Virgin Nigeria Airways",
+    "nameZh": "Virgin Nigeria Airways",
+    "logoRes": "logo_vk"
+  },
+  {
+    "iata": "VL",
+    "name": "Air VIA",
+    "nameZh": "Air VIA",
+    "logoRes": "logo_vl"
+  },
+  {
+    "iata": "VM",
+    "name": "LAM Mozambique Airlines",
+    "nameZh": "莫桑比克航空",
+    "logoRes": "logo_vm"
+  },
+  {
+    "iata": "VN",
+    "name": "Vietnam Airlines",
+    "nameZh": "越南航空",
+    "logoRes": "logo_vn"
+  },
+  {
+    "iata": "VO",
+    "name": "Tyrolean Airways",
+    "nameZh": "Tyrolean Airways",
+    "logoRes": "logo_vo"
+  },
+  {
+    "iata": "VP",
+    "name": "VASP",
+    "nameZh": "VASP",
+    "logoRes": "logo_vp"
+  },
+  {
+    "iata": "VQ",
+    "name": "Viking Hellas",
+    "nameZh": "Viking Hellas",
+    "logoRes": "logo_vq"
+  },
+  {
+    "iata": "VR",
+    "name": "TACV",
+    "nameZh": "TACV",
+    "logoRes": "logo_vr"
+  },
+  {
+    "iata": "VS",
+    "name": "Virgin Atlantic",
+    "nameZh": "维珍大西洋航空",
+    "logoRes": "logo_vs"
+  },
+  {
+    "iata": "VT",
+    "name": "Air Tahiti",
+    "nameZh": "Air Tahiti",
+    "logoRes": "logo_vt"
+  },
+  {
+    "iata": "VU",
+    "name": "Air Ivoire",
+    "nameZh": "Air Ivoire",
+    "logoRes": "logo_vu"
+  },
+  {
+    "iata": "VV",
+    "name": "Aerosvit Airlines",
+    "nameZh": "Aerosvit Airlines",
+    "logoRes": "logo_vv"
+  },
+  {
+    "iata": "VW",
+    "name": "Aeromar",
+    "nameZh": "Aeromar",
+    "logoRes": "logo_vw"
+  },
+  {
+    "iata": "VX",
+    "name": "Virgin America",
+    "nameZh": "Virgin America",
+    "logoRes": "logo_vx"
+  },
+  {
+    "iata": "VY",
+    "name": "Vueling",
+    "nameZh": "伏林航空",
+    "logoRes": "logo_vy"
+  },
+  {
+    "iata": "VZ",
+    "name": "Thai Vietjet Air",
+    "nameZh": "泰国越捷航空",
+    "logoRes": "logo_vz"
+  },
+  {
+    "iata": "W3",
+    "name": "Arik Air",
+    "nameZh": "阿里克航空",
+    "logoRes": "logo_w3"
+  },
+  {
+    "iata": "W5",
+    "name": "Mahan Air",
+    "nameZh": "马汉航空",
+    "logoRes": "logo_w5"
+  },
+  {
+    "iata": "W6",
+    "name": "Wizz Air",
+    "nameZh": "维兹航空",
+    "logoRes": "logo_w6"
+  },
+  {
+    "iata": "W9",
+    "name": "Air Bagan",
+    "nameZh": "蒲甘航空",
+    "logoRes": "logo_w9"
+  },
+  {
+    "iata": "WA",
+    "name": "KLM Cityhopper",
+    "nameZh": "KLM Cityhopper",
+    "logoRes": "logo_wa"
+  },
+  {
+    "iata": "WB",
+    "name": "Rwandair Express",
+    "nameZh": "Rwandair Express",
+    "logoRes": "logo_wb"
+  },
+  {
+    "iata": "WC",
+    "name": "Islena De Inversiones",
+    "nameZh": "Islena De Inversiones",
+    "logoRes": "logo_wc"
+  },
+  {
+    "iata": "WD",
+    "name": "Amsterdam Airlines",
+    "nameZh": "Amsterdam Airlines",
+    "logoRes": "logo_wd"
+  },
+  {
+    "iata": "WE",
+    "name": "Thai Smile",
+    "nameZh": "泰国微笑航空",
+    "logoRes": "logo_we"
+  },
+  {
+    "iata": "WF",
+    "name": "Widerøe",
+    "nameZh": "维德勒航空",
+    "logoRes": "logo_wf"
+  },
+  {
+    "iata": "WG",
+    "name": "Sunwing",
+    "nameZh": "Sunwing",
+    "logoRes": "logo_wg"
+  },
+  {
+    "iata": "WH",
+    "name": "China Northwest Airlines (WH)",
+    "nameZh": "China Northwest Airlines (WH)",
+    "logoRes": "logo_wh"
+  },
+  {
+    "iata": "WJ",
+    "name": "WebJet Linhas A",
+    "nameZh": "WebJet Linhas A",
+    "logoRes": "logo_wj"
+  },
+  {
+    "iata": "WK",
+    "name": "Edelweiss Air",
+    "nameZh": "Edelweiss Air",
+    "logoRes": "logo_wk"
+  },
+  {
+    "iata": "WM",
+    "name": "Windward Islands Airways",
+    "nameZh": "Windward Islands Airways",
+    "logoRes": "logo_wm"
+  },
+  {
+    "iata": "WN",
+    "name": "Southwest Airlines",
+    "nameZh": "西南航空",
+    "logoRes": "logo_wn"
+  },
+  {
+    "iata": "WO",
+    "name": "World Airways",
+    "nameZh": "World Airways",
+    "logoRes": "logo_wo"
+  },
+  {
+    "iata": "WP",
+    "name": "Island Air (WP)",
+    "nameZh": "Island Air (WP)",
+    "logoRes": "logo_wp"
+  },
+  {
+    "iata": "WQ",
+    "name": "PanAm World Airways",
+    "nameZh": "PanAm World Airways",
+    "logoRes": "logo_wq"
+  },
+  {
+    "iata": "WR",
+    "name": "WestJet Encore",
+    "nameZh": "WestJet Encore",
+    "logoRes": "logo_wr"
+  },
+  {
+    "iata": "WS",
+    "name": "WestJet",
+    "nameZh": "西捷航空",
+    "logoRes": "logo_ws"
+  },
+  {
+    "iata": "WT",
+    "name": "Swiftair",
+    "nameZh": "斯威夫特航空",
+    "logoRes": "logo_wt"
+  },
+  {
+    "iata": "WU",
+    "name": "Wizz Air Ukraine",
+    "nameZh": "Wizz Air Ukraine",
+    "logoRes": "logo_wu"
+  },
+  {
+    "iata": "WV",
+    "name": "Swe Fly",
+    "nameZh": "Swe Fly",
+    "logoRes": "logo_wv"
+  },
+  {
+    "iata": "WW",
+    "name": "bmibaby",
+    "nameZh": "bmibaby",
+    "logoRes": "logo_ww"
+  },
+  {
+    "iata": "WX",
+    "name": "CityJet",
+    "nameZh": "CityJet",
+    "logoRes": "logo_wx"
+  },
+  {
+    "iata": "WY",
+    "name": "Oman Air",
+    "nameZh": "阿曼航空",
+    "logoRes": "logo_wy"
+  },
+  {
+    "iata": "WZ",
+    "name": "Red Wings",
+    "nameZh": "Red Wings",
+    "logoRes": "logo_wz"
+  },
+  {
+    "iata": "X3",
+    "name": "TUIfly",
+    "nameZh": "途易飞",
+    "logoRes": "logo_x3"
+  },
+  {
+    "iata": "XA",
+    "name": "XAIR USA",
+    "nameZh": "XAIR USA",
+    "logoRes": "logo_xa"
+  },
+  {
+    "iata": "XB",
+    "name": "NEXT Brasil",
+    "nameZh": "NEXT Brasil",
+    "logoRes": "logo_xb"
+  },
+  {
+    "iata": "XC",
+    "name": "Corendon Airlines",
+    "nameZh": "克伦登航空",
+    "logoRes": "logo_xc"
+  },
+  {
+    "iata": "XE",
+    "name": "ExpressJet",
+    "nameZh": "ExpressJet",
+    "logoRes": "logo_xe"
+  },
+  {
+    "iata": "XF",
+    "name": "Vladivostok Air",
+    "nameZh": "Vladivostok Air",
+    "logoRes": "logo_xf"
+  },
+  {
+    "iata": "XG",
+    "name": "Calima Aviacion",
+    "nameZh": "Calima Aviacion",
+    "logoRes": "logo_xg"
+  },
+  {
+    "iata": "XJ",
+    "name": "Mesaba Airlines",
+    "nameZh": "Mesaba Airlines",
+    "logoRes": "logo_xj"
+  },
+  {
+    "iata": "XK",
+    "name": "Corse-Mediterranee",
+    "nameZh": "Corse-Mediterranee",
+    "logoRes": "logo_xk"
+  },
+  {
+    "iata": "XL",
+    "name": "Aerolane",
+    "nameZh": "Aerolane",
+    "logoRes": "logo_xl"
+  },
+  {
+    "iata": "XM",
+    "name": "Alitalia Express",
+    "nameZh": "Alitalia Express",
+    "logoRes": "logo_xm"
+  },
+  {
+    "iata": "XN",
+    "name": "Xpressair",
+    "nameZh": "Xpressair",
+    "logoRes": "logo_xn"
+  },
+  {
+    "iata": "XO",
+    "name": "LTE International Airways",
+    "nameZh": "LTE International Airways",
+    "logoRes": "logo_xo"
+  },
+  {
+    "iata": "XP",
+    "name": "XPTO",
+    "nameZh": "XPTO",
+    "logoRes": "logo_xp"
+  },
+  {
+    "iata": "XQ",
+    "name": "SunExpress",
+    "nameZh": "SunExpress",
+    "logoRes": "logo_xq"
+  },
+  {
+    "iata": "XR",
+    "name": "Skywest Australia",
+    "nameZh": "Skywest Australia",
+    "logoRes": "logo_xr"
+  },
+  {
+    "iata": "XT",
+    "name": "Air Exel",
+    "nameZh": "Air Exel",
+    "logoRes": "logo_xt"
+  },
+  {
+    "iata": "XV",
+    "name": "BVI Airways",
+    "nameZh": "BVI Airways",
+    "logoRes": "logo_xv"
+  },
+  {
+    "iata": "XW",
+    "name": "Sky Express",
+    "nameZh": "Sky Express",
+    "logoRes": "logo_xw"
+  },
+  {
+    "iata": "XX",
+    "name": "Greenfly",
+    "nameZh": "Greenfly",
+    "logoRes": "logo_xx"
+  },
+  {
+    "iata": "XY",
+    "name": "flynas",
+    "nameZh": "纳斯航空",
+    "logoRes": "logo_xy"
+  },
+  {
+    "iata": "XZ",
+    "name": "Congo Express",
+    "nameZh": "Congo Express",
+    "logoRes": "logo_xz"
+  },
+  {
+    "iata": "Y4",
+    "name": "Volaris",
+    "nameZh": "沃拉里斯航空",
+    "logoRes": "logo_y4"
+  },
+  {
+    "iata": "Y8",
+    "name": "Suparna Airlines",
+    "nameZh": "金鹏航空",
+    "logoRes": "logo_y8"
+  },
+  {
+    "iata": "Y9",
+    "name": "Kish Air",
+    "nameZh": "基什航空",
+    "logoRes": "logo_y9"
+  },
+  {
+    "iata": "YC",
+    "name": "Ciel Canadien",
+    "nameZh": "Ciel Canadien",
+    "logoRes": "logo_yc"
+  },
+  {
+    "iata": "YD",
+    "name": "Gomelavia",
+    "nameZh": "Gomelavia",
+    "logoRes": "logo_yd"
+  },
+  {
+    "iata": "YE",
+    "name": "Yellowtail",
+    "nameZh": "Yellowtail",
+    "logoRes": "logo_ye"
+  },
+  {
+    "iata": "YH",
+    "name": "Yangon Airways Ltd.",
+    "nameZh": "Yangon Airways Ltd.",
+    "logoRes": "logo_yh"
+  },
+  {
+    "iata": "YK",
+    "name": "Cyprus Turkish Airlines",
+    "nameZh": "Cyprus Turkish Airlines",
+    "logoRes": "logo_yk"
+  },
+  {
+    "iata": "YL",
+    "name": "Yamal Airlines",
+    "nameZh": "Yamal Airlines",
+    "logoRes": "logo_yl"
+  },
+  {
+    "iata": "YM",
+    "name": "Montenegro Airlines",
+    "nameZh": "Montenegro Airlines",
+    "logoRes": "logo_ym"
+  },
+  {
+    "iata": "YO",
+    "name": "TransHolding System",
+    "nameZh": "TransHolding System",
+    "logoRes": "logo_yo"
+  },
+  {
+    "iata": "YQ",
+    "name": "Polet Airlines (Priv)",
+    "nameZh": "Polet Airlines (Priv)",
+    "logoRes": "logo_yq"
+  },
+  {
+    "iata": "YR",
+    "name": "SENIC AIRLINES",
+    "nameZh": "SENIC AIRLINES",
+    "logoRes": "logo_yr"
+  },
+  {
+    "iata": "YS",
+    "name": "Régional",
+    "nameZh": "Régional",
+    "logoRes": "logo_ys"
+  },
+  {
+    "iata": "YT",
+    "name": "Yeti Airways",
+    "nameZh": "Yeti Airways",
+    "logoRes": "logo_yt"
+  },
+  {
+    "iata": "YV",
+    "name": "Mesa Airlines",
+    "nameZh": "Mesa Airlines",
+    "logoRes": "logo_yv"
+  },
+  {
+    "iata": "YW",
+    "name": "Air Nostrum",
+    "nameZh": "Air Nostrum",
+    "logoRes": "logo_yw"
+  },
+  {
+    "iata": "YX",
+    "name": "Midwest Airlines",
+    "nameZh": "Midwest Airlines",
+    "logoRes": "logo_yx"
+  },
+  {
+    "iata": "YY",
+    "name": "Virginwings",
+    "nameZh": "Virginwings",
+    "logoRes": "logo_yy"
+  },
+  {
+    "iata": "YZ",
+    "name": "LSM AIRLINES",
+    "nameZh": "LSM AIRLINES",
+    "logoRes": "logo_yz"
+  },
+  {
+    "iata": "Z2",
+    "name": "AirAsia Zest",
+    "nameZh": "亚洲航空Zest",
+    "logoRes": "logo_z2"
+  },
+  {
+    "iata": "Z8",
+    "name": "Amaszonas",
+    "nameZh": "亚马孙航空",
+    "logoRes": "logo_z8"
+  },
+  {
+    "iata": "ZA",
+    "name": "Access Air",
+    "nameZh": "Access Air",
+    "logoRes": "logo_za"
+  },
+  {
+    "iata": "ZB",
+    "name": "Air Bourbon",
+    "nameZh": "Air Bourbon",
+    "logoRes": "logo_zb"
+  },
+  {
+    "iata": "ZC",
+    "name": "Korongo Airlines",
+    "nameZh": "Korongo Airlines",
+    "logoRes": "logo_zc"
+  },
+  {
+    "iata": "ZE",
+    "name": "Eastar Jet",
+    "nameZh": "易斯达航空",
+    "logoRes": "logo_ze"
+  },
+  {
+    "iata": "ZF",
+    "name": "Athens Airways",
+    "nameZh": "Athens Airways",
+    "logoRes": "logo_zf"
+  },
+  {
+    "iata": "ZG",
+    "name": "Viva Macau",
+    "nameZh": "Viva Macau",
+    "logoRes": "logo_zg"
+  },
+  {
+    "iata": "ZH",
+    "name": "Shenzhen Airlines",
+    "nameZh": "深圳航空",
+    "logoRes": "logo_zh"
+  },
+  {
+    "iata": "ZI",
+    "name": "Aigle Azur",
+    "nameZh": "Aigle Azur",
+    "logoRes": "logo_zi"
+  },
+  {
+    "iata": "ZJ",
+    "name": "Zambezi Airlines (ZMA)",
+    "nameZh": "Zambezi Airlines (ZMA)",
+    "logoRes": "logo_zj"
+  },
+  {
+    "iata": "ZK",
+    "name": "Great Lakes Airlines",
+    "nameZh": "Great Lakes Airlines",
+    "logoRes": "logo_zk"
+  },
+  {
+    "iata": "ZL",
+    "name": "Regional Express",
+    "nameZh": "区域快线航空",
+    "logoRes": "logo_zl"
+  },
+  {
+    "iata": "ZM",
+    "name": "Apache Air",
+    "nameZh": "Apache Air",
+    "logoRes": "logo_zm"
+  },
+  {
+    "iata": "ZN",
+    "name": "Zenith International Airline",
+    "nameZh": "Zenith International Airline",
+    "logoRes": "logo_zn"
+  },
+  {
+    "iata": "ZP",
+    "name": "Zabaykalskii Airlines",
+    "nameZh": "Zabaykalskii Airlines",
+    "logoRes": "logo_zp"
+  },
+  {
+    "iata": "ZQ",
+    "name": "Locair",
+    "nameZh": "Locair",
+    "logoRes": "logo_zq"
+  },
+  {
+    "iata": "ZS",
+    "name": "Sama Airlines",
+    "nameZh": "Sama Airlines",
+    "logoRes": "logo_zs"
+  },
+  {
+    "iata": "ZT",
+    "name": "Tomp Airlines",
+    "nameZh": "Tomp Airlines",
+    "logoRes": "logo_zt"
+  },
+  {
+    "iata": "ZV",
+    "name": "V Air",
+    "nameZh": "V Air",
+    "logoRes": "logo_zv"
+  },
+  {
+    "iata": "ZW",
+    "name": "Air Wisconsin",
+    "nameZh": "Air Wisconsin",
+    "logoRes": "logo_zw"
+  },
+  {
+    "iata": "ZX",
+    "name": "Japan Regio",
+    "nameZh": "Japan Regio",
+    "logoRes": "logo_zx"
+  },
+  {
+    "iata": "ZY",
+    "name": "Ada Air",
+    "nameZh": "Ada Air",
+    "logoRes": "logo_zy"
+  },
+  {
+    "iata": "ZZ",
+    "name": "Zz",
+    "nameZh": "Zz",
+    "logoRes": "logo_zz"
+  },
+  {
+    "iata": "АЯ",
+    "name": "Аэросервис",
+    "nameZh": "Аэросервис",
+    "logoRes": "logo_ая"
+  },
+  {
+    "iata": "МИ",
+    "name": "KMV",
+    "nameZh": "KMV",
+    "logoRes": "logo_ми"
+  },
+  {
+    "iata": "ЯП",
+    "name": "Polar Airlines",
+    "nameZh": "Polar Airlines",
+    "logoRes": "logo_яп"
+  }
+]
