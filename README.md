@@ -40,6 +40,18 @@
 
 ---
 
+## Screenshots (Material Design 3 · Bilingual `中 / EN`)
+
+| Home (中文) | Home (English) | Flight Telemetry & Curves |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/md3_home_zh.png" width="260" /> | <img src="docs/screenshots/md3_home_en.png" width="260" /> | <img src="docs/screenshots/md3_detail_en.png" width="260" /> |
+
+| GPU AI & Single-Page A4 PDF (中文) | GPU AI & Single-Page A4 PDF (English) | Full Manual Editor (MD3) |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/md3_detail_zh_ai_pdf.png" width="260" /> | <img src="docs/screenshots/md3_detail_en_ai_pdf.png" width="260" /> | <img src="docs/screenshots/md3_edit_dialog_en.png" width="260" /> |
+
+---
+
 ## Architecture & Project Structure
 
 ```text
